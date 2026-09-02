@@ -2,9 +2,15 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-02 (repo cleanup + agent context)
+- Canonical photo paths: `photos/exterior.jpg` and `photos/interior-roof.jpg` (moved out of `Photos/Untitled/`).
+- Removed unrelated iPhone dump `Photos/FullSizeRender.{heic,mov,png}` (motorcycle group Live Photo, not the shed) and `.DS_Store`. Added `.gitignore`.
+- Added `.cursorrules` (and `.cursor/rules/shed-project.mdc`) so future agents get the locked decisions, layout, and "commit to main, no PRs" workflow without rediscovering them.
+- Notes already live on **`main`** via Mac commit `2907cea` ("starting repo"). Work goes straight to `main`; do not open pull requests unless asked.
+
 ## 2026-09-02 (main branch)
-- All notes/photos/diagrams now live on **`main`** (renamed from `master` after merging `cursor/organize-shed-repo-e0be`).
-- This Cloud Agent run was started from **mobile with no GitHub repo attached** (`repoUrl` empty), so it still cannot push. User needs the Cursor GitHub App on `Outside-Shed-Project`, then a **new** agent started from that repo.
+- All notes/photos/diagrams now live on **`main`**.
+- Earlier Cloud Agent runs started from **mobile with no GitHub repo attached** could not push; the first successful GitHub copy was the Mac `starting repo` commit, not a merge of `cursor/organize-shed-repo-e0be`.
 
 ## 2026-09-02 (GitHub + local path)
 - Canonical GitHub repo: https://github.com/jplineb/Outside-Shed-Project.git
