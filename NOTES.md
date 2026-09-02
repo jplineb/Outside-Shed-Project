@@ -2,6 +2,10 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-02 (cheap battery bank)
+- Yes: a **USB-C power bank** (~20,000–27,000 mAh, look for real **~70–100 Wh** on the label) is enough for a USB fan + LED work light for a cleanup session. Charge it in the garage. Skip a phone-brick 10,000 mAh pack.
+- Do **not** expect it to run a 20" box fan, shop vac, or anything through a cheap inverter — those loads need the GFCI house cord or a ~200–300 Wh LiFePO4 “power station” (~$150–250). Fake Amazon 50,000 mAh / “1000W” bricks are not worth it. Cordless tool-battery fans (Milwaukee/DeWalt/etc.) are even simpler if those packs already exist.
+
 ## 2026-09-02 (cleanup shopping list)
 - Phase 1 now has a **cleanup sequence + shopping list** for dust, bugs, and animal droppings. Wet-down droppings before scooping (no dry sweep). Shop vac + disinfectant; PPE (N95, gloves). Interior bug spray/baits only — exterior yellow jacket nest stays Phase 0. After the wet clean, optional DE/boric acid in the wall-to-block gap until Phase 2 seals it.
 

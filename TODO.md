@@ -46,7 +46,8 @@ Do this **early or late**, doors + jalousie open. **Do not dry-sweep droppings**
 - [ ] Outdoor-rated extension cord + GFCI if the vac is corded
 - [ ] Broom + dustpan (for **after** the wet pass, not for dry poop)
 - [ ] Putty knife or scraper (stuck droppings, wasp paper on interior framing)
-- [ ] Headlamp / battery work light + cordless fan (already on the Phase 1 light item)
+- [ ] Headlamp / battery work light + **USB or cordless-tool fan** (not a 20" box fan on a bank)
+- [ ] Optional: USB-C PD power bank **20,000–27,000 mAh / ~70–100 Wh** (real Wh on the label). Charge in the garage. Shop vac still uses the GFCI cord.
 
 **Bugs (interior; nest spray is Phase 0)**
 - [ ] Residual crack-and-crevice insecticide (indoor-labeled)
