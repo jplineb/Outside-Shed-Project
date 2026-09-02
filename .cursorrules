@@ -1,0 +1,65 @@
+# Outside Shed Project — agent context
+
+This is a **DIY house / shed notes repo**, not a software app. Do not scaffold an app, add CI, or invent nested folders. Keep files at the **repo root**.
+
+Canonical GitHub: https://github.com/jplineb/Outside-Shed-Project
+Canonical Mac folder: `/Users/jp/Documents/dev/Outside Shed Project`
+
+## Layout
+
+```
+README.md          snapshot + map
+TODO.md            checkboxes; this is how we track progress
+NOTES.md           dated decision log (newest first)
+.cursorrules       this file — project memory for agents
+photos/            site photos only
+  exterior.jpg
+  interior-roof.jpg
+diagrams/          how-to drawings
+  radiant-barrier-diagram.png
+  radiant-barrier.svg
+```
+
+There is no `shed-project/` folder. Photo paths are lowercase `photos/`, not `Photos/` or `Photos/Untitled/`.
+
+## How to work
+
+1. Do the work.
+2. Check it off in `TODO.md` (`- [x]`).
+3. Add a short dated bullet at the **top** of `NOTES.md`.
+4. Commit and **push to `main`**. Do not open a pull request unless the user asks.
+
+Do not reopen locked decisions below unless the user explicitly changes them.
+
+## Locked decisions
+
+- **Use:** bikes + house projects. DIY as much as possible.
+- **Tools:** cordless / battery-only in the shed. High-voltage work stays in the **primary garage**.
+- **Power:** none on site. Modest solar later (lights, charging, fan). Small inverter. No compressor / table-saw loads.
+- **Comfort:** must be **workable**, not office-cool. Currently ~**105°F** midday. No AC. Path = interior radiant barrier + exhaust fan + lighter paint. Target high 80s / low 90s plus a personal fan.
+- **Radiant barrier:** staple **perforated foil across the bottom of the 2x4 rafters**, leaving a 1"+ air gap in the bay. Do **not** glue or staple foil tight to the OSB. Leave the existing ridge vent unblocked.
+- **Reflective tin** means that interior foil, not a metal roof overlay.
+- **Blue mark** on the OSB in `photos/interior-roof.jpg` is a layout / chalk line, **not** a cable.
+- **Door:** bottoms rotting, frame good — repair in place; add a sweep / kick plate. Don't replace the opening.
+- **Foundation:** slab + cinder-block perimeter. Seal the wall-to-block gap with **hardware cloth + trim/flashing**, not foam-only. Also seal daylight at corners and roof-to-wall joints.
+- **Paint:** prefer a lighter color than the current faded tan.
+- **Exhaust fan:** jalousie as intake; exhaust high on the opposite side or gable.
+
+## Sequence (see TODO.md)
+
+0. **Safety:** treat the **active yellow jacket nest** under the gutters (dusk/dawn), wait, scrape remnants, reseat gutter guards. Do not start eave/roof work until it's gone.
+1. Measure, junk out, clean walls.
+2. Gaps + door + paint.
+3. Radiant barrier + fan.
+4. Modest solar.
+
+## Still unknown
+
+- Exact dimensions (exterior L × W × H, door, window, roof face for solar). Rough guess only: 8–12 ft.
+- Wall-to-block gap width / treated sill plate.
+- Whether the small ridge vent leaks.
+- Dry vs humid summers (only matters if a swamp cooler is ever considered).
+
+## Photos and junk
+
+Keep only shed site photos in `photos/`. Do not commit `.DS_Store`, iPhone `FullSizeRender.*` dumps, or unrelated media (a motorcycle Live Photo was already removed once). When adding photos, name them clearly (`exterior.jpg`, `interior-roof.jpg`, or `yyyy-mm-dd-description.jpg`).

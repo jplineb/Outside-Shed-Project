@@ -1,0 +1,12 @@
+---
+description: DIY backside-shed workspace project — layout, locked decisions, and how to track work
+alwaysApply: true
+---
+
+This is a DIY house / shed notes repo, not a software app. Follow `.cursorrules` at the repo root as the project memory.
+
+- Track progress in `TODO.md` checkboxes and dated `NOTES.md` bullets (newest first).
+- Keep the layout at repo root: `README.md`, `TODO.md`, `NOTES.md`, `photos/`, `diagrams/`.
+- Commit and push to `main`. Do not open a pull request unless the user asks.
+- Do not reopen locked decisions in `.cursorrules` unless the user explicitly changes them.
+- Next physical work: treat the active yellow jacket nest under the gutters before any eave/roof work.

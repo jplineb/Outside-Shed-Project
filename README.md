@@ -8,15 +8,15 @@ DIY conversion of the backside shed into a **bike / house-project workspace**.
 |------|------|
 | GitHub | https://github.com/jplineb/Outside-Shed-Project |
 | Your Mac | `/Users/jp/Documents/dev/Outside Shed Project` |
-| This agent workspace | `/agent` (repo root — `README.md`, `TODO.md`, `NOTES.md`, `photos/`, `diagrams/`) |
 
-Open `README.md` first. There is no nested `shed-project/` folder.
+Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). There is no nested `shed-project/` folder.
 
 ```
 .
 ├── README.md      ← you are here (map + current snapshot)
 ├── TODO.md        ← checkboxes; this is how we track progress
 ├── NOTES.md       ← dated discussion / decision log (newest first)
+├── .cursorrules   ← project memory for Cursor agents
 ├── photos/        ← site photos
 │   ├── exterior.jpg
 │   └── interior-roof.jpg
@@ -29,9 +29,7 @@ Open `README.md` first. There is no nested `shed-project/` folder.
 1. Do the work.
 2. Check it off in [TODO.md](TODO.md) (`- [x]`).
 3. Add a short dated bullet in [NOTES.md](NOTES.md).
-4. Commit and push to `origin` (`main` or this working branch).
-
-Remote `origin` is set to `https://github.com/jplineb/Outside-Shed-Project.git`. Working branch: **`main`**.
+4. Commit and push to **`main`**. No pull requests unless asked.
 
 ---
 
