@@ -39,7 +39,7 @@ Remote `origin` is set to `https://github.com/jplineb/Outside-Shed-Project.git`.
 
 - **Next action:** treat the **active yellow jacket nest** under the gutters (dusk/dawn). Don't start eave/roof work until it's gone.
 - **Use:** bikes + house projects; cordless tools only. High-voltage work stays in the primary garage.
-- **Comfort:** must be workable. Currently ~**105°F** midday. Path = interior radiant barrier + exhaust fan + lighter paint. No AC.
+- **Comfort:** must be workable. Currently ~**105°F** midday. Path = interior radiant barrier + exhaust fan + lighter paint. No AC. Very humid SC summers — swamp cooler won't work.
 - **Power:** none on site. Modest solar later (lights, charging, fan).
 - **Door:** bottoms rotting, frame good — repair, don't replace the opening.
 - **Foundation:** slab + cinder-block perimeter; seal the wall-to-block gap.

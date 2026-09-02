@@ -26,4 +26,3 @@
 - Exact dimensions still unmeasured.
 - How wide are the wall-to-block gaps, and is there a treated sill plate?
 - Does the small ridge vent leak?
-- Dry or humid summers? (only matters if we ever consider a swamp cooler)

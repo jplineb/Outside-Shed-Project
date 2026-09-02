@@ -2,6 +2,9 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-02 (climate)
+- Summers here are **very humid** (South Carolina). Evaporative / swamp cooler is off the table — those only work in dry air. Stick with radiant barrier + exhaust fan + lighter paint; no AC.
+
 ## 2026-09-02 (main branch)
 - All notes/photos/diagrams now live on **`main`** (renamed from `master` after merging `cursor/organize-shed-repo-e0be`).
 - This Cloud Agent run was started from **mobile with no GitHub repo attached** (`repoUrl` empty), so it still cannot push. User needs the Cursor GitHub App on `Outside-Shed-Project`, then a **new** agent started from that repo.
