@@ -2,6 +2,14 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-02 (cleanup shopping list)
+- Phase 1 now has a **cleanup sequence + shopping list** for dust, bugs, and animal droppings. Wet-down droppings before scooping (no dry sweep). Shop vac + disinfectant; PPE (N95, gloves). Interior bug spray/baits only — exterior yellow jacket nest stays Phase 0. After the wet clean, optional DE/boric acid in the wall-to-block gap until Phase 2 seals it.
+
+## 2026-09-02 (temp light + cool for cleanup)
+- For Phase 1 junk-out / wall cleaning, the nearest outlet is far and there is still **no power in the shed**. Do **not** pull a long cord for AC, a swamp cooler, or a generator-as-shop. Work **early or late** (also cooler, and nest-safer), doors + jalousie open for cross-breeze.
+- Lighting: headlamp + rechargeable LED work light (matches battery-only tools).
+- Cooling: cordless / USB fan, or a small **power station** charged in the garage and carried out (lights + fan for a session). If a shop vac or corded fan is needed, one **outdoor-rated** extension cord with **GFCI** at the house (or in-line) is fine as a **temporary** run — 12/3 if it's a long pull. Coil it up when you leave. Permanent solar still waits until after envelope + radiant barrier.
+
 ## 2026-09-02 (climate)
 - Summers here are **very humid** (South Carolina). Evaporative / swamp cooler is off the table — those only work in dry air. Stick with radiant barrier + exhaust fan + lighter paint; no AC.
 ## 2026-09-02 (repo cleanup + agent context)

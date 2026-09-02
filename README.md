@@ -35,10 +35,10 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 
 ## Current snapshot
 
-- **Next action:** treat the **active yellow jacket nest** under the gutters (dusk/dawn). Don't start eave/roof work until it's gone.
+- **Next action:** treat the **active yellow jacket nest** under the gutters (dusk/dawn). Don't start eave/roof work until it's gone. Interior cleanup (dust, bugs, droppings) shopping list is in [TODO.md](TODO.md) Phase 1.
 - **Use:** bikes + house projects; cordless tools only. High-voltage work stays in the primary garage.
 - **Comfort:** must be workable. Currently ~**105°F** midday. Path = interior radiant barrier + exhaust fan + lighter paint. No AC. Very humid SC summers — swamp cooler won't work.
-- **Power:** none on site. Modest solar later (lights, charging, fan).
+- **Power:** none on site. Modest solar later (lights, charging, fan). Cleanup sessions: battery lights/fan or a GFCI outdoor cord — not AC on a long run.
 - **Door:** bottoms rotting, frame good — repair, don't replace the opening.
 - **Foundation:** slab + cinder-block perimeter; seal the wall-to-block gap.
 - **Roof inside:** open 2x4 rafters, bare OSB. Staple perforated foil across the **bottom of the rafters** (air gap in the bay). See [diagrams/radiant-barrier-diagram.png](diagrams/radiant-barrier-diagram.png).
