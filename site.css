@@ -1,0 +1,376 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Source+Sans+3:wght@400;600;700&display=swap");
+
+:root {
+  --paper: #efe4d0;
+  --paper-dark: #e2d2b6;
+  --ink: #1b1612;
+  --muted: #5c5146;
+  --shingle: #2c2a28;
+  --tan: #c4a574;
+  --trim: #f6f1e6;
+  --moss: #3d5a3a;
+  --warn: #8a2b12;
+  --ticket: #f3ead4;
+  --line: rgba(27, 22, 18, 0.14);
+  --shadow: 0 18px 40px rgba(28, 22, 16, 0.14);
+  --display: "Fraunces", "Iowan Old Style", Palatino, Georgia, serif;
+  --ui: "Source Sans 3", "Segoe UI", sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  color: var(--ink);
+  font-family: var(--ui);
+  line-height: 1.5;
+  background:
+    radial-gradient(circle at 1px 1px, rgba(80, 50, 20, 0.06) 1px, transparent 0) 0 0 / 7px 7px,
+    linear-gradient(180deg, var(--paper) 0%, var(--paper-dark) 100%);
+}
+
+.skip {
+  position: absolute;
+  left: -999px;
+  top: 0;
+}
+
+.skip:focus {
+  left: 12px;
+  z-index: 10;
+  background: var(--trim);
+  padding: 8px 12px;
+}
+
+.roof {
+  background:
+    repeating-linear-gradient(-18deg, #252320 0 14px, #32302c 14px 28px);
+  color: var(--trim);
+  padding: 2.4rem 1.25rem 3.2rem;
+  box-shadow: inset 0 -16px 0 rgba(0, 0, 0, 0.18);
+}
+
+.roof-inner {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.eyebrow {
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  margin: 0 0 0.6rem;
+  color: var(--tan);
+}
+
+h1, h2, h3, .ticket h2 {
+  font-family: var(--display);
+  font-optical-sizing: auto;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: clamp(2.4rem, 6vw, 4.4rem);
+  line-height: 0.95;
+  margin: 0 0 0.6rem;
+}
+
+.lede {
+  max-width: 36rem;
+  margin: 0;
+  color: #ddd4c6;
+  font-size: 1.15rem;
+}
+
+.score {
+  margin-top: 1.4rem;
+  display: inline-block;
+  background: var(--tan);
+  color: var(--ink);
+  font-weight: 700;
+  padding: 0.45rem 0.8rem;
+  border-radius: 2px;
+}
+
+main {
+  max-width: 980px;
+  margin: -1.4rem auto 0;
+  padding: 0 1.25rem 4rem;
+}
+
+.ticket {
+  background: var(--ticket);
+  border: 1px dashed #b08950;
+  padding: 1.1rem 1.2rem 1.2rem;
+  box-shadow: var(--shadow);
+}
+
+.ticket-label {
+  margin: 0 0 0.3rem;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--warn);
+}
+
+.ticket h2 {
+  margin: 0 0 0.4rem;
+  font-size: 1.55rem;
+}
+
+.ticket p { margin: 0; color: var(--muted); }
+
+.facts {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.9rem;
+  margin: 1.4rem 0 2.4rem;
+}
+
+.facts article {
+  background: rgba(246, 241, 230, 0.72);
+  border: 1px solid var(--line);
+  padding: 1rem;
+}
+
+.facts h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1.05rem;
+}
+
+.facts p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.section-head {
+  margin: 0 0 1rem;
+}
+
+.section-head h2 {
+  margin: 0 0 0.25rem;
+  font-size: 2rem;
+}
+
+.section-head p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.phase-rail {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-bottom: 1.1rem;
+}
+
+.phase-chip {
+  border: 1px solid var(--line);
+  background: var(--trim);
+  padding: 0.35rem 0.6rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.phase-chip.current {
+  background: var(--shingle);
+  color: var(--trim);
+  border-color: var(--shingle);
+}
+
+.phase-chip.done {
+  background: var(--moss);
+  color: #f3f7f1;
+  border-color: var(--moss);
+}
+
+.phase {
+  background: rgba(246, 241, 230, 0.88);
+  border: 1px solid var(--line);
+  margin: 0 0 1rem;
+  padding: 1rem 1.1rem 0.4rem;
+}
+
+.phase h3 {
+  margin: 0 0 0.7rem;
+  font-size: 1.25rem;
+}
+
+.phase .meta {
+  font-family: var(--ui);
+  font-weight: 600;
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-left: 0.4rem;
+}
+
+.phase p.blurb {
+  color: var(--muted);
+  margin: -0.3rem 0 0.8rem;
+}
+
+.task {
+  display: grid;
+  grid-template-columns: 1.2rem 1fr;
+  gap: 0.55rem;
+  align-items: start;
+  padding: 0.45rem 0;
+  border-top: 1px solid var(--line);
+}
+
+.box {
+  width: 1.1rem;
+  height: 1.1rem;
+  margin-top: 0.2rem;
+  border: 2px solid var(--ink);
+  background: var(--trim);
+}
+
+.task.done .box {
+  background: var(--moss);
+  border-color: var(--moss);
+  box-shadow: inset 0 0 0 2px var(--trim);
+}
+
+.task.done .label {
+  color: var(--muted);
+  text-decoration: line-through;
+  text-decoration-thickness: 1px;
+}
+
+details.group {
+  margin: 0.4rem 0 0.8rem;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.28);
+  padding: 0.2rem 0.8rem 0.4rem;
+}
+
+details.group summary {
+  cursor: pointer;
+  font-weight: 700;
+  padding: 0.55rem 0;
+}
+
+.questions {
+  margin-top: 1.2rem;
+  padding: 1rem 1.1rem;
+  border-left: 4px solid var(--tan);
+  background: rgba(246, 241, 230, 0.7);
+}
+
+.questions ul {
+  margin: 0.4rem 0 0;
+  padding-left: 1.1rem;
+  color: var(--muted);
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+figure {
+  margin: 0;
+}
+
+figure img {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  display: block;
+  border: 8px solid var(--trim);
+  box-shadow: var(--shadow);
+  background: #ccc;
+}
+
+.diagram {
+  margin-top: 1.1rem;
+}
+
+.diagram img {
+  height: auto;
+  object-fit: contain;
+  background: #f7f5f0;
+}
+
+figcaption {
+  margin-top: 0.5rem;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.entry {
+  background: rgba(246, 241, 230, 0.8);
+  border: 1px solid var(--line);
+  padding: 0.9rem 1rem;
+  margin: 0 0 0.7rem;
+}
+
+.entry h3 {
+  margin: 0 0 0.45rem;
+  font-size: 1.05rem;
+}
+
+.entry ul {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
+.entry li { margin: 0.2rem 0; }
+
+footer {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 0 1.25rem 2.5rem;
+  color: var(--muted);
+}
+
+a { color: #5c3a16; }
+
+.loading, .error {
+  color: var(--muted);
+}
+
+.error { color: var(--warn); }
+
+dialog {
+  border: 0;
+  padding: 0;
+  max-width: min(1100px, 94vw);
+  background: transparent;
+}
+
+dialog::backdrop {
+  background: rgba(20, 16, 12, 0.78);
+}
+
+dialog img {
+  width: 100%;
+  max-height: 88vh;
+  object-fit: contain;
+  background: var(--shingle);
+}
+
+dialog .close {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  background: var(--trim);
+  border: 0;
+  padding: 0.45rem 0.7rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+@media (max-width: 780px) {
+  .facts, .photo-grid { grid-template-columns: 1fr; }
+  figure img { height: 220px; }
+}

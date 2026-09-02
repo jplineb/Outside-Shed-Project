@@ -2,6 +2,10 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-02 (progress site)
+- Added a static site at the repo root (`index.html`) so GitHub Pages can show live progress. It fetches `TODO.md` and `NOTES.md` plus the photos/diagram — checking boxes in `TODO.md` and pushing to `main` updates the page.
+- Publish: GitHub → Settings → Pages → deploy from **`main` / root**. The repo is currently **private**; a public URL needs the repo set to public (simplest) or GitHub Pro. Intended URL: https://jplineb.github.io/Outside-Shed-Project/
+
 ## 2026-09-02 (cheap battery bank)
 - Yes: a **USB-C power bank** (~20,000–27,000 mAh, look for real **~70–100 Wh** on the label) is enough for a USB fan + LED work light for a cleanup session. Charge it in the garage. Skip a phone-brick 10,000 mAh pack.
 - Do **not** expect it to run a 20" box fan, shop vac, or anything through a cheap inverter — those loads need the GFCI house cord or a ~200–300 Wh LiFePO4 “power station” (~$150–250). Fake Amazon 50,000 mAh / “1000W” bricks are not worth it. Cordless tool-battery fans (Milwaukee/DeWalt/etc.) are even simpler if those packs already exist.

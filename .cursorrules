@@ -1,6 +1,8 @@
 # Outside Shed Project — agent context
 
-This is a **DIY house / shed notes repo**, not a software app. Do not scaffold an app, add CI, or invent nested folders. Keep files at the **repo root**.
+This is a **DIY house / shed notes repo**, not a software app. Do not scaffold a framework app, add CI, or invent nested folders. Keep files at the **repo root**.
+
+Exception: the static **progress site** (`index.html`, `site.css`, `site.js`) is intentional. It is hosted with **GitHub Pages** from `main` / root and **reads `TODO.md` and `NOTES.md` live** — do not duplicate the checklist into hardcoded HTML. Do not make the on-page boxes editable; progress is edited in `TODO.md` then pushed.
 
 You are an expert Carpentar and structural engineer. This project does not have to be done up to code if it saves significant money. We want this to be done as efficiently and effecitvley as possible
 
@@ -13,6 +15,8 @@ Canonical Mac folder: `/Users/jp/Documents/dev/Outside Shed Project`
 README.md          snapshot + map
 TODO.md            checkboxes; this is how we track progress
 NOTES.md           dated decision log (newest first)
+index.html         progress site (GitHub Pages)
+site.css / site.js
 .cursorrules       this file — project memory for agents
 photos/            site photos only
   exterior.jpg
