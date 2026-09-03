@@ -2,6 +2,13 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-03 (sill seal plan)
+- Salvageable-path sealing is now a Phase 2 sequence in [TODO.md](TODO.md). Cross-section: [diagrams/sill-seal.svg](diagrams/sill-seal.svg).
+- Stack (locked): **1/4" hardware cloth in the wall-to-block gap** (pests) + **Z-flashing or a PT/PVC skirt** that drips past the block (weather). Optional foam only *behind* the cloth. Never foam-only — it holds water on the plate and mice chew it.
+- Order: probe / sister first → clean the gap → cloth all the way around including door jambs → flashing/skirt → door sweep + kick plate last.
+- Extra water fix from [photos/exterior.jpg](photos/exterior.jpg): the **downspout dumps on the foundation corner**. Elbow + 4–6 ft extension (or a splash block) before we blame the siding. Keep grass/soil off the T1-11.
+- Still need the gap width measured. Hairline vs 2" only changes how wide the cloth/skirt is, not the stack.
+
 ## 2026-09-03 (is the wet sill a teardown?)
 - From [photos/interior-sill.jpg](photos/interior-sill.jpg): **not unsaveable**. Dark 6–10" tide mark + surface mold/mineral + debris on the plate is splash/wicking. The plate is still a recognizable member (anchor bolt still in it). Studs look full-section above the stain. Roof and walls in the other shots are still standing square.
 - **Unsaveable for this shed** = repair cost approaches a new box, not “it will fall over tomorrow.” Tear down if: screwdriver goes through the **middle** of most studs (not just the last 2"); the sill is mush in long stretches **and the wall has dropped** (door out of square, ridge sag); rot runs **>18–24" up** on most of the perimeter; or you’d have to re-side + re-plate + sister everything and a comparable new shed is cheaper.

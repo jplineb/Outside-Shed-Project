@@ -31,7 +31,8 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 │   └── interior-sill.jpg
 └── diagrams/      ← how-to drawings
     ├── radiant-barrier-diagram.png
-    └── radiant-barrier.svg
+    ├── radiant-barrier.svg
+    └── sill-seal.svg
 ```
 
 **How to track progress**
@@ -56,7 +57,7 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 - **Comfort:** must be workable. Currently ~**105°F** midday. Path = interior radiant barrier + exhaust fan + lighter paint. No AC. Very humid SC summers — swamp cooler won't work.
 - **Power:** none on site. Modest solar later (lights, charging, fan). Cleanup sessions: battery lights/fan or a GFCI outdoor cord — not AC on a long run.
 - **Door:** bottoms rotting, frame good — repair, don't replace the opening.
-- **Foundation:** slab + cinder-block perimeter; **sill plate is there**. Bottom ~6–10" of studs/sheathing is moisture-stained — probe before sealing. From the photo this looks **saveable** (sister bottoms / local plate), not a teardown. Seal the wall-to-block gap with hardware cloth + trim, not over wet/rotten wood.
+- **Foundation:** slab + cinder-block perimeter; **sill plate is there**. Bottom ~6–10" of studs/sheathing is moisture-stained — probe before sealing. From the photo this looks **saveable** (sister bottoms / local plate), not a teardown. Seal = **hardware cloth in the gap + flashing/skirt**, not foam-only. Downspout currently dumps on the corner — move it. See [diagrams/sill-seal.svg](diagrams/sill-seal.svg).
 - **Roof inside:** open 2x4 rafters, bare OSB. Back eave has **two soffit vents** (roof-cavity intake to the ridge); front gutter/eave side has none. Lumber/corrugated sheets are sitting on the collar ties — take those down before the foil. Staple perforated foil across the **bottom of the rafters** (air gap in the bay); don't block the soffit or ridge. See [diagrams/radiant-barrier-diagram.png](diagrams/radiant-barrier-diagram.png).
 - **Dimensions:** still unmeasured.
 

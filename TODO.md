@@ -66,8 +66,34 @@ Do this **early or late**, doors + jalousie open. **Do not dry-sweep droppings**
 ## Phase 2 — Envelope (pests, weather, door)
 - [ ] Probe the wet-looking stud bottoms and sill plate **before** sealing the block line. Hard wood = clean, dry, then hardware cloth + trim. Soft/punky = sister or replace those bottoms first — don't bury rot
 - [ ] Fix gaps between wall and foundation (hardware cloth + trim/flashing, not foam-only)
+- [ ] Point the downspout **away** from the corner (elbow + 4–6 ft extension or splash block) — it currently dumps on the foundation
 - [ ] Repair door bottoms; keep the existing frame; add a sweep / kick plate
 - [ ] Re-paint (prefer a lighter color than the current faded tan — helps the 105°F problem)
+
+### Sill / block-line seal (after the probe)
+Do this **after** Phase 1 cleanup + the screwdriver test. If bottoms are punky, sister or swap plate sections first. See [diagrams/sill-seal.svg](diagrams/sill-seal.svg).
+
+- [ ] Measure the exterior wall-to-block gap (height and how far it runs) on all four sides + both door jambs
+- [ ] Scrape dirt, old foam, and webs out of the gap; shop-vac the plate from inside
+- [ ] Optional: dust food-grade DE or boric acid in the empty gap (already on the cleanup list)
+- [ ] Cut 1/4" galvanized hardware cloth into 6–8" strips; fold an L and stuff it into the gap around the whole perimeter
+- [ ] Fasten cloth to the back of the siding or the plate (staples / roofing nails). Overlap corners 4"+. Don't leave a mouse-sized hole at the door jambs
+- [ ] Cover the cloth with **Z-flashing or a PT / PVC skirt** so water drips past the block face — not onto the plate. This is the weather seal; the cloth is the pest seal
+- [ ] Foam is optional **behind** the cloth as a draft stop only. Never foam-only, never foam against wet/punky wood
+- [ ] Door last: kick plate + sweep / threshold so that opening isn't the leftover hole
+- [ ] Keep soil and grass off the siding. A 2–3" gravel drip strip is enough if you want one
+
+### Shopping / gather list (envelope)
+- [ ] 1/4" galvanized hardware cloth (a 2–3 ft × 10–25 ft roll covers a small shed)
+- [ ] Tin snips + gloves (the cloth cuts you)
+- [ ] Staple gun or 3/4" roofing nails; masonry screws if you want the flashing in the block
+- [ ] Aluminum Z-flashing **or** coil stock you can bend **or** 1x6 PT / PVC trim for a skirt
+- [ ] Exterior screws for the skirt / kick plate
+- [ ] Downspout elbow + 4–6 ft extension (or a splash block)
+- [ ] Door sweep + thin aluminum / galvanized kick plate
+- [ ] Exterior-grade caulk for corner trim joints only (not a substitute for cloth)
+- [ ] If sistering: treated 2x4s, 3" exterior screws, maybe a short run of treated plate
+- [ ] Optional: small can of low-expansion foam for *behind* the cloth only
 
 ## Phase 3 — Heat (the 105°F problem)
 - [ ] Install interior radiant barrier: staple to the **underside of the rafters** (not tight to the OSB) so a 1"+ air gap stays against the hot deck; leave the **ridge vent and back soffit vents** unblocked

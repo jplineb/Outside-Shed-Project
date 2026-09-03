@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-label="Seal the wall-to-block gap with hardware cloth plus trim, not foam only">
+  <rect width="960" height="560" fill="#f7f5f0"/>
+  <text x="480" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1f1f1f">Sill seal  cloth + flashing, then drip</text>
+  <text x="480" y="56" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#555">Probe first. Don't bury rot. Foam-only is pest food and holds water.</text>
+
+  <!-- LEFT: do this -->
+  <rect x="24" y="74" width="456" height="466" rx="10" fill="#fff" stroke="#2f6b3a" stroke-width="2"/>
+  <rect x="24" y="74" width="456" height="36" rx="10" fill="#2f6b3a"/>
+  <rect x="24" y="92" width="456" height="18" fill="#2f6b3a"/>
+  <text x="252" y="98" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#fff">DO THIS  cloth in the gap, trim over it</text>
+
+  <!-- outside / inside labels -->
+  <text x="86" y="132" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#666">OUTSIDE</text>
+  <text x="400" y="132" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#666">INSIDE</text>
+
+  <!-- T1-11 siding -->
+  <rect x="70" y="140" width="22" height="210" fill="#c4a574" stroke="#8a6a3b"/>
+  <line x1="77" y1="148" x2="77" y2="342" stroke="#8a6a3b" stroke-width="1"/>
+  <line x1="85" y1="148" x2="85" y2="342" stroke="#8a6a3b" stroke-width="1"/>
+  <text x="81" y="248" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#3b2a12" transform="rotate(-90 81 248)">T1-11</text>
+
+  <!-- stud -->
+  <rect x="200" y="140" width="28" height="200" fill="#d9b07a" stroke="#8a6a3b" stroke-width="2"/>
+  <text x="214" y="230" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#3b2a12" transform="rotate(-90 214 230)">2x4 stud</text>
+
+  <!-- sill plate -->
+  <rect x="92" y="340" width="200" height="28" fill="#c4a06a" stroke="#6b4e24" stroke-width="2"/>
+  <text x="192" y="358" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#3b2a12">Sill plate</text>
+
+  <!-- block -->
+  <rect x="70" y="368" width="246" height="70" fill="#9aa3a8" stroke="#5c656a"/>
+  <line x1="70" y1="403" x2="316" y2="403" stroke="#7a8489"/>
+  <text x="193" y="408" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#2a3034">Cinder block</text>
+
+  <!-- gap -->
+  <rect x="92" y="318" width="18" height="50" fill="#f3ead4" stroke="#c4a574" stroke-dasharray="3 2"/>
+
+  <!-- hardware cloth (L into gap) -->
+  <path d="M88 250 v90 h28 v20" fill="none" stroke="#555" stroke-width="3" stroke-dasharray="4 3"/>
+  <text x="148" y="268" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#334155">1/4" hardware cloth</text>
+  <text x="148" y="282" font-family="system-ui, sans-serif" font-size="11" fill="#334155">stapled to siding / plate</text>
+
+  <!-- flashing / trim skirt -->
+  <path d="M66 230 h32 v130 l-18 14" fill="none" stroke="#6b7c88" stroke-width="5"/>
+  <path d="M66 230 h32 v130 l-18 14" fill="none" stroke="#c5d0d6" stroke-width="2"/>
+  <text x="34" y="200" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#2f6b3a">Z-flash</text>
+  <text x="34" y="214" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#2f6b3a">or PT skirt</text>
+
+  <!-- drip arrow -->
+  <path d="M78 380 l-22 18" stroke="#1d4e89" stroke-width="2" fill="none"/>
+  <text x="44" y="416" font-family="system-ui, sans-serif" font-size="11" fill="#1d4e89">drip past</text>
+  <text x="44" y="430" font-family="system-ui, sans-serif" font-size="11" fill="#1d4e89">the block</text>
+
+  <!-- splash -->
+  <path d="M40 360 q18 -20 8 -40" stroke="#3a7ca5" stroke-width="1.5" fill="none"/>
+  <text x="36" y="348" font-family="system-ui, sans-serif" font-size="10" fill="#3a7ca5">splash</text>
+
+  <text x="252" y="468" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#2f6b3a">Cloth stops mice. Flashing sheds water.</text>
+  <text x="252" y="486" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#2f6b3a">Optional foam only behind the cloth, never as the seal.</text>
+  <text x="252" y="516" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#555">Also: downspout away from the corner. Door sweep last.</text>
+
+  <!-- RIGHT: don't -->
+  <rect x="500" y="74" width="436" height="466" rx="10" fill="#fff" stroke="#a33" stroke-width="2"/>
+  <rect x="500" y="74" width="436" height="36" rx="10" fill="#a33"/>
+  <rect x="500" y="92" width="436" height="18" fill="#a33"/>
+  <text x="718" y="98" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#fff">DON'T  foam the gap and walk away</text>
+
+  <rect x="560" y="140" width="22" height="210" fill="#c4a574" stroke="#8a6a3b"/>
+  <rect x="690" y="140" width="28" height="200" fill="#d9b07a" stroke="#8a6a3b" stroke-width="2"/>
+  <rect x="582" y="340" width="200" height="28" fill="#c4a06a" stroke="#6b4e24" stroke-width="2"/>
+  <rect x="560" y="368" width="246" height="70" fill="#9aa3a8" stroke="#5c656a"/>
+
+  <!-- foam blob -->
+  <ellipse cx="590" cy="330" rx="28" ry="36" fill="#f4e4a6" stroke="#c9a227"/>
+  <ellipse cx="604" cy="318" rx="16" ry="18" fill="#f7edc2" stroke="#c9a227"/>
+  <text x="718" y="250" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#a33">Great Stuff in the gap</text>
+  <text x="718" y="270" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#a33">holds water on the plate</text>
+  <text x="718" y="288" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#a33">mice chew through it</text>
+  <text x="718" y="306" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#a33">UV turns it to crumbs</text>
+
+  <text x="718" y="468" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#a33">Looks sealed for a season. Then the</text>
+  <text x="718" y="486" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#a33">same wet stain and the same holes.</text>
+  <text x="718" y="516" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#555">If the wood is still punky, sister first.</text>
+</svg>

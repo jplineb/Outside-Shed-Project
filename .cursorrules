@@ -28,6 +28,7 @@ photos/            site photos only
 diagrams/          how-to drawings
   radiant-barrier-diagram.png
   radiant-barrier.svg
+  sill-seal.svg
 ```
 
 There is no `shed-project/` folder. Photo paths are lowercase `photos/`, not `Photos/` or `Photos/Untitled/`.
