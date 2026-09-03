@@ -57,11 +57,11 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 - **Power:** none on site. Modest solar later (lights, charging, fan). Cleanup sessions: battery lights/fan or a GFCI outdoor cord — not AC on a long run.
 - **Door:** bottoms rotting, frame good — repair, don't replace the opening.
 - **Foundation:** slab + cinder-block perimeter; **sill plate is there**. Bottom ~6–10" of studs/sheathing is moisture-stained — probe before sealing. Seal the wall-to-block gap with hardware cloth + trim, not over wet/rotten wood.
-- **Roof inside:** open 2x4 rafters, bare OSB. Back eave has **soffit vents** (roof-cavity intake to the ridge). Lumber/corrugated sheets are sitting on the collar ties — take those down before the foil. Staple perforated foil across the **bottom of the rafters** (air gap in the bay); don't block the soffit or ridge. See [diagrams/radiant-barrier-diagram.png](diagrams/radiant-barrier-diagram.png).
+- **Roof inside:** open 2x4 rafters, bare OSB. Back eave has **two soffit vents** (roof-cavity intake to the ridge); front gutter/eave side has none. Lumber/corrugated sheets are sitting on the collar ties — take those down before the foil. Staple perforated foil across the **bottom of the rafters** (air gap in the bay); don't block the soffit or ridge. See [diagrams/radiant-barrier-diagram.png](diagrams/radiant-barrier-diagram.png).
 - **Dimensions:** still unmeasured.
 
 ## Known facts
 
 - Approach: DIY as much as possible
-- Exterior: faded tan T1-11 siding, white trim, dark shingle gable roof, white gutters, small jalousie window, small ridge vent, **soffit vents on the back eave**
+- Exterior: faded tan T1-11 siding, white trim, dark shingle gable roof, white gutters, small jalousie window, small ridge vent, **two soffit vents on the back eave and none on the front gutter/eave**
 - Photos: [photos/exterior.jpg](photos/exterior.jpg), [photos/exterior-back.jpg](photos/exterior-back.jpg), [photos/interior.jpg](photos/interior.jpg), [photos/interior-roof.jpg](photos/interior-roof.jpg), [photos/interior-rafters.jpg](photos/interior-rafters.jpg), [photos/interior-sill.jpg](photos/interior-sill.jpg)

@@ -3,10 +3,10 @@
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
 ## 2026-09-03 (back soffit vents)
-- New shot: [photos/exterior-back.jpg](photos/exterior-back.jpg). Back eave has **rectangular louvered soffit vents** (at least one visible in this photo; user saw more than one along that side).
+- New shot: [photos/exterior-back.jpg](photos/exterior-back.jpg). Back eave has **two rectangular louvered soffit vents**. Front gutter/eave side has **none**.
 - These feed the **roof cavity**, not the room: outside air in at the soffit → up the rafter bays → out the existing ridge vent. That is exactly the air gap the radiant barrier needs. Do **not** staple foil over the eave path, stuff the soffit, or paint the louvers shut.
 - They do **not** replace the exhaust fan. Soffit + ridge cools the hot deck; the fan still moves air through the occupied space (jalousie in, exhaust high on the opposite side or gable).
-- After the nest is gone: knock the cobwebs off so they actually pull. Open question: how many along the back eave, and does the front (gutter) eave have any?
+- After the nest is gone: knock the cobwebs off so they actually pull.
 
 ## 2026-09-03 (interior photos)
 - Three new shots: [photos/interior.jpg](photos/interior.jpg) (room), [photos/interior-rafters.jpg](photos/interior-rafters.jpg) (looking up), [photos/interior-sill.jpg](photos/interior-sill.jpg) (wall base). Bike is already in there — matches the locked use. Also mower, wheelbarrow, patio chairs, ladder, shelves of cans, gas cans. Phase 1 junk-out is still a real job.

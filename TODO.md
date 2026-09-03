@@ -85,4 +85,3 @@ Do this **early or late**, doors + jalousie open. **Do not dry-sweep droppings**
 - Sill plate is present. Is it treated? How soft are the stained bottoms?
 - Is the crumbly material on the sill dirt, punky rot, or insect frass?
 - Does the small ridge vent leak?
-- How many soffit vents along the back eave? Any on the front (gutter) eave?
