@@ -285,6 +285,10 @@ details.group summary {
   height: 360px;
 }
 
+.photo-grid .eave img {
+  object-position: top;
+}
+
 figure {
   margin: 0;
 }

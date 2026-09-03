@@ -70,9 +70,10 @@ Do this **early or late**, doors + jalousie open. **Do not dry-sweep droppings**
 - [ ] Re-paint (prefer a lighter color than the current faded tan — helps the 105°F problem)
 
 ## Phase 3 — Heat (the 105°F problem)
-- [ ] Install interior radiant barrier: staple to the **underside of the rafters** (not tight to the OSB) so a 1"+ air gap stays against the hot deck; leave the existing ridge vent unblocked
+- [ ] Install interior radiant barrier: staple to the **underside of the rafters** (not tight to the OSB) so a 1"+ air gap stays against the hot deck; leave the **ridge vent and back soffit vents** unblocked
 - [ ] Seal daylight gaps at corners and roof-to-wall joints (not only the foundation line)
-- [ ] Add an exhaust fan (jalousie as intake, exhaust high on the opposite side or gable)
+- [ ] After the nest is gone: knock webs off the back soffit vents so they actually pull (don't paint the louvers shut)
+- [ ] Add an exhaust fan (jalousie as intake, exhaust high on the opposite side or gable) — soffit vents are for the roof bay, not a substitute for this
 - [ ] Optional later: foil-faced foam on walls if roof + fan isn't enough
 
 ## Phase 4 — Power (keep it small)
@@ -84,3 +85,4 @@ Do this **early or late**, doors + jalousie open. **Do not dry-sweep droppings**
 - Sill plate is present. Is it treated? How soft are the stained bottoms?
 - Is the crumbly material on the sill dirt, punky rot, or insect frass?
 - Does the small ridge vent leak?
+- How many soffit vents along the back eave? Any on the front (gutter) eave?

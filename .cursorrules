@@ -20,6 +20,7 @@ site.css / site.js
 .cursorrules       this file — project memory for agents
 photos/            site photos only
   exterior.jpg
+  exterior-back.jpg
   interior.jpg
   interior-roof.jpg
   interior-rafters.jpg
@@ -47,13 +48,13 @@ Do not reopen locked decisions below unless the user explicitly changes them.
 - **Power:** none on site. Modest solar later (lights, charging, fan). Small inverter. No compressor / table-saw loads.
 - **Cleanup sessions (before solar):** USB-C power bank (~70–100 Wh) for USB fan + LED lights, or a cordless-tool battery fan. A ~200–300 Wh LiFePO4 station only if you need a small AC fan. A long **outdoor GFCI** extension cord is OK only as a temporary run (shop vac / box fan). No window AC, swamp cooler, or generator-as-shop. Work early/late with doors + jalousie open.
 - **Comfort:** must be **workable**, not office-cool. Currently ~**105°F** midday. No AC. Path = interior radiant barrier + exhaust fan + lighter paint. Target high 80s / low 90s plus a personal fan.
-- **Radiant barrier:** staple **perforated foil across the bottom of the 2x4 rafters**, leaving a 1"+ air gap in the bay. Do **not** glue or staple foil tight to the OSB. Leave the existing ridge vent unblocked.
+- **Radiant barrier:** staple **perforated foil across the bottom of the 2x4 rafters**, leaving a 1"+ air gap in the bay. Do **not** glue or staple foil tight to the OSB. Leave the existing ridge vent **and back soffit vents** unblocked.
 - **Reflective tin** means that interior foil, not a metal roof overlay.
 - **Blue mark** on the OSB in `photos/interior-roof.jpg` is a layout / chalk line, **not** a cable.
 - **Door:** bottoms rotting, frame good — repair in place; add a sweep / kick plate. Don't replace the opening.
 - **Foundation:** slab + cinder-block perimeter. Seal the wall-to-block gap with **hardware cloth + trim/flashing**, not foam-only. Also seal daylight at corners and roof-to-wall joints.
 - **Paint:** prefer a lighter color than the current faded tan.
-- **Exhaust fan:** jalousie as intake; exhaust high on the opposite side or gable.
+- **Exhaust fan:** jalousie as intake; exhaust high on the opposite side or gable. Back soffit vents are roof-cavity intake (to the ridge), not a substitute for the room fan.
 
 ## Sequence (see TODO.md)
 
@@ -69,6 +70,7 @@ Do not reopen locked decisions below unless the user explicitly changes them.
 - Exterior wall-to-block gap width. Sill plate is present; treated? how soft are the stained bottoms?
 - Whether the crumbly pile on the sill is dirt, punky rot, or insect frass.
 - Whether the small ridge vent leaks.
+- How many soffit vents along the back eave, and whether the front (gutter) eave has any.
 
 ## Photos and junk
 
