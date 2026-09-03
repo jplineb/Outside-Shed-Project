@@ -58,6 +58,7 @@ Do this **early or late**, doors + jalousie open. **Do not dry-sweep droppings**
 - [ ] Diatomaceous earth (food-grade) or boric acid for the foundation gap
 - [ ] Sticky traps (mice) to confirm whether droppings are rodent vs something else
 - [ ] Optional: peppermint or other deterrent is not a substitute — traps + seal gaps later
+- Do **not** buy a bug bomb / fogger. Open gaps + soffit/ridge vents mean it mostly leaves the building. It misses the gutter nest, doesn't reach the sill gap, and is a fire hazard with gas cans in there.
 
 **If droppings look like rodent (rice-shaped pellets)**
 - [ ] Snap traps or a covered bait station (don't leave poison open where pets/wildlife get it)

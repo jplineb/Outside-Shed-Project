@@ -2,6 +2,9 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-03 (no bug bomb)
+- Don't buy a fogger / bug bomb. This shed is full of exits (block-line gap, jalousie, soffit vents, ridge vent, doors). The fog mostly leaves. It will not treat the **yellow jacket nest under the gutters** (that's a dusk/dawn nest spray, Phase 0). It doesn't soak the sill gap or droppings. Gas cans in the shed + a fogger is a fire hazard. Stick with: nest spray outside, then wet-clean, crack-and-crevice residual, baits, DE/boric in the gap, then seal with hardware cloth.
+
 ## 2026-09-03 (sill seal plan)
 - Salvageable-path sealing is now a Phase 2 sequence in [TODO.md](TODO.md). Cross-section: [diagrams/sill-seal.svg](diagrams/sill-seal.svg).
 - Stack (locked): **1/4" hardware cloth in the wall-to-block gap** (pests) + **Z-flashing or a PT/PVC skirt** that drips past the block (weather). Optional foam only *behind* the cloth. Never foam-only — it holds water on the plate and mice chew it.
