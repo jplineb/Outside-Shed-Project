@@ -24,7 +24,10 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 ├── .cursorrules   ← project memory for Cursor agents
 ├── photos/        ← site photos
 │   ├── exterior.jpg
-│   └── interior-roof.jpg
+│   ├── interior.jpg
+│   ├── interior-roof.jpg
+│   ├── interior-rafters.jpg
+│   └── interior-sill.jpg
 └── diagrams/      ← how-to drawings
     ├── radiant-barrier-diagram.png
     └── radiant-barrier.svg
@@ -52,12 +55,12 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 - **Comfort:** must be workable. Currently ~**105°F** midday. Path = interior radiant barrier + exhaust fan + lighter paint. No AC. Very humid SC summers — swamp cooler won't work.
 - **Power:** none on site. Modest solar later (lights, charging, fan). Cleanup sessions: battery lights/fan or a GFCI outdoor cord — not AC on a long run.
 - **Door:** bottoms rotting, frame good — repair, don't replace the opening.
-- **Foundation:** slab + cinder-block perimeter; seal the wall-to-block gap.
-- **Roof inside:** open 2x4 rafters, bare OSB. Staple perforated foil across the **bottom of the rafters** (air gap in the bay). See [diagrams/radiant-barrier-diagram.png](diagrams/radiant-barrier-diagram.png).
+- **Foundation:** slab + cinder-block perimeter; **sill plate is there**. Bottom ~6–10" of studs/sheathing is moisture-stained — probe before sealing. Seal the wall-to-block gap with hardware cloth + trim, not over wet/rotten wood.
+- **Roof inside:** open 2x4 rafters, bare OSB. Lumber/corrugated sheets are sitting on the collar ties — take those down before the foil. Staple perforated foil across the **bottom of the rafters** (air gap in the bay). See [diagrams/radiant-barrier-diagram.png](diagrams/radiant-barrier-diagram.png).
 - **Dimensions:** still unmeasured.
 
 ## Known facts
 
 - Approach: DIY as much as possible
 - Exterior: faded tan T1-11 siding, white trim, dark shingle gable roof, white gutters, small jalousie window, small ridge vent
-- Photos: [photos/exterior.jpg](photos/exterior.jpg), [photos/interior-roof.jpg](photos/interior-roof.jpg)
+- Photos: [photos/exterior.jpg](photos/exterior.jpg), [photos/interior.jpg](photos/interior.jpg), [photos/interior-roof.jpg](photos/interior-roof.jpg), [photos/interior-rafters.jpg](photos/interior-rafters.jpg), [photos/interior-sill.jpg](photos/interior-sill.jpg)

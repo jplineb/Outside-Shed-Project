@@ -5,8 +5,11 @@
 
 ## Phase 1 — Clear and measure
 - [ ] Measure the shed (exterior L × W × H, door opening, window, roof face for solar)
-- [ ] Get rid of more junk
+- [ ] Get rid of more junk (mower / chairs / wheelbarrow / leftover yard stuff — bike can stay)
+- [ ] Take lumber and corrugated sheets **off the collar ties** (they block the radiant-barrier staple-up)
+- [ ] Walk the gas cans out of the 105°F box until the shed is ventilated
 - [ ] Clean interior walls
+- [ ] Probe the stained stud bottoms and scoop the crumbly stuff on the sill plate (wet it first — same as droppings)
 - [ ] Temporary light + airflow for those sessions: headlamp / battery work light + cordless fan (or garage-charged power station). Outdoor GFCI cord from the house only if you need a shop vac — not AC, not a swamp cooler. Work early/late.
 
 ### Cleanup sequence (bugs, dust, animal droppings)
@@ -61,6 +64,7 @@ Do this **early or late**, doors + jalousie open. **Do not dry-sweep droppings**
 - [ ] Hardware cloth leftover from Phase 2 — cleanup is wasted if they still walk in under the siding
 
 ## Phase 2 — Envelope (pests, weather, door)
+- [ ] Probe the wet-looking stud bottoms and sill plate **before** sealing the block line. Hard wood = clean, dry, then hardware cloth + trim. Soft/punky = sister or replace those bottoms first — don't bury rot
 - [ ] Fix gaps between wall and foundation (hardware cloth + trim/flashing, not foam-only)
 - [ ] Repair door bottoms; keep the existing frame; add a sweep / kick plate
 - [ ] Re-paint (prefer a lighter color than the current faded tan — helps the 105°F problem)
@@ -76,5 +80,7 @@ Do this **early or late**, doors + jalousie open. **Do not dry-sweep droppings**
 
 ## Open questions
 - Exact dimensions still unmeasured.
-- How wide are the wall-to-block gaps, and is there a treated sill plate?
+- How wide is the exterior wall-to-block gap?
+- Sill plate is present. Is it treated? How soft are the stained bottoms?
+- Is the crumbly material on the sill dirt, punky rot, or insect frass?
 - Does the small ridge vent leak?

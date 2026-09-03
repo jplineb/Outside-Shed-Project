@@ -2,6 +2,13 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-03 (interior photos)
+- Three new shots: [photos/interior.jpg](photos/interior.jpg) (room), [photos/interior-rafters.jpg](photos/interior-rafters.jpg) (looking up), [photos/interior-sill.jpg](photos/interior-sill.jpg) (wall base). Bike is already in there — matches the locked use. Also mower, wheelbarrow, patio chairs, ladder, shelves of cans, gas cans. Phase 1 junk-out is still a real job.
+- Lumber and corrugated sheets are stored **across the collar ties**. That has to come down before the radiant-barrier staple-up.
+- **Sill plate is there:** 2x4 studs on a wood plate on the slab/block. Treated or not still unknown.
+- Bottom ~6–10" of studs and sheathing is dark-stained (moisture wicking). White crusty patches (mold or mineral). Crumbly brown pile on the plate — dirt, punky rot, or insect frass. Probe it: hard wood = clean, dry, then seal the leak; soft/punky = sister those bottoms. Do **not** foam or trim over wet/rotten wood.
+- Pull the gas cans out of the 105°F box until the shed is ventilated. Yellow cord on a joist is leftover, not house power. Daylight still visible at the ridge.
+
 ## 2026-09-02 (progress site)
 - Added a static site at the repo root (`index.html`) so GitHub Pages can show live progress. It fetches `TODO.md` and `NOTES.md` plus the photos/diagram — checking boxes in `TODO.md` and pushing to `main` updates the page.
 - Publish: GitHub → Settings → Pages → deploy from **`main` / root**. The repo is currently **private**; a public URL needs the repo set to public (simplest) or GitHub Pro. Intended URL: https://jplineb.github.io/Outside-Shed-Project/

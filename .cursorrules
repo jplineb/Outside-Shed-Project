@@ -20,7 +20,10 @@ site.css / site.js
 .cursorrules       this file — project memory for agents
 photos/            site photos only
   exterior.jpg
+  interior.jpg
   interior-roof.jpg
+  interior-rafters.jpg
+  interior-sill.jpg
 diagrams/          how-to drawings
   radiant-barrier-diagram.png
   radiant-barrier.svg
@@ -63,7 +66,8 @@ Do not reopen locked decisions below unless the user explicitly changes them.
 ## Still unknown
 
 - Exact dimensions (exterior L × W × H, door, window, roof face for solar). Rough guess only: 8–12 ft.
-- Wall-to-block gap width / treated sill plate.
+- Exterior wall-to-block gap width. Sill plate is present; treated? how soft are the stained bottoms?
+- Whether the crumbly pile on the sill is dirt, punky rot, or insect frass.
 - Whether the small ridge vent leaks.
 
 ## Photos and junk

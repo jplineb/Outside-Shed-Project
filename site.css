@@ -277,6 +277,14 @@ details.group summary {
   gap: 1rem;
 }
 
+.photo-grid .span {
+  grid-column: 1 / -1;
+}
+
+.photo-grid .span img {
+  height: 360px;
+}
+
 figure {
   margin: 0;
 }
