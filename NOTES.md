@@ -2,6 +2,11 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-03 (is the wet sill a teardown?)
+- From [photos/interior-sill.jpg](photos/interior-sill.jpg): **not unsaveable**. Dark 6–10" tide mark + surface mold/mineral + debris on the plate is splash/wicking. The plate is still a recognizable member (anchor bolt still in it). Studs look full-section above the stain. Roof and walls in the other shots are still standing square.
+- **Unsaveable for this shed** = repair cost approaches a new box, not “it will fall over tomorrow.” Tear down if: screwdriver goes through the **middle** of most studs (not just the last 2"); the sill is mush in long stretches **and the wall has dropped** (door out of square, ridge sag); rot runs **>18–24" up** on most of the perimeter; or you’d have to re-side + re-plate + sister everything and a comparable new shed is cheaper.
+- **Typical save** if the probe is only punky at the last few inches: sister stud bottoms, replace/sister plate in sections, cut the bottom 12" of shot sheathing and add a treated kick / skirt, then seal the block line. Stain ≠ rot — confirm with a screwdriver before buying lumber.
+
 ## 2026-09-03 (back soffit vents)
 - New shot: [photos/exterior-back.jpg](photos/exterior-back.jpg). Back eave has **two rectangular louvered soffit vents**. Front gutter/eave side has **none**.
 - These feed the **roof cavity**, not the room: outside air in at the soffit → up the rafter bays → out the existing ridge vent. That is exactly the air gap the radiant barrier needs. Do **not** staple foil over the eave path, stuff the soffit, or paint the louvers shut.
