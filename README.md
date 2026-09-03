@@ -60,7 +60,7 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 - **Door:** 48 × 75.5" opening, two ~24" leaves. Bottoms rotting, frame good — repair, don't replace the opening.
 - **Foundation:** **16 × 12 ft** slab + ~8.5" cinder-block stem. Sill is a **2×6** (5.5 × 1.5). Bottom ~6–10" of 74" 2×4 studs/sheathing is moisture-stained — probe before sealing. Saveable-looking. Seal = **hardware cloth in the gap + flashing/skirt**, not foam-only. Downspout dumps on the corner — move it. See [diagrams/sill-seal.svg](diagrams/sill-seal.svg) and [diagrams/floor-plan.svg](diagrams/floor-plan.svg).
 - **Roof inside:** open 2x4 rafters, bare OSB. Back eave has **two soffit vents**; front gutter/eave has none. Take lumber off the collar ties before the foil. Don't block the soffit or ridge. Roof face / pitch still unmeasured.
-- **Dimensions:** 16 × 12 foundation, 87" wall top-to-bottom, 48 × 75.5" door, 18 × 22" window. Still need roof pitch and the wall-to-block gap.
+- **Dimensions:** 16 × 12 foundation, 87" top-of-wall to bottom-of-block (2×6 sill + 74" 2×4 + **double top plate** + 8.5" block). 48 × 75.5" door, 18 × 22" window. Still need roof pitch and the wall-to-block gap.
 
 ## Known facts
 

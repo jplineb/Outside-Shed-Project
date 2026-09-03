@@ -2,11 +2,14 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-03 (double top plate)
+- Confirmed: **double top plate**. Wall stack is 2×6 sill (1.5") + 74" 2×4 stud + 3" double plate = **78.5" of wood**. 87" top-to-bottom minus the 8.5" block is the same number, so 87" is **top of wall to bottom of the block**. No mystery leftover height.
+
 ## 2026-09-03 (first measurements)
 - Foundation **16 ft (door/eave walls) × 12 ft (gables)**. ~192 sq ft. Bigger than the 8–12 ft guess. Plan: [diagrams/floor-plan.svg](diagrams/floor-plan.svg).
 - Door: opening **48 × 75.5"**; each leaf **~24-1/16 × 75"**; closed exterior pair **46 × 75"**. Double door, keep the frame, repair bottoms. Bikes / mower / wheelbarrow fit.
 - Window (jalousie): **18 × 22"**.
-- Wall top-to-bottom **87"**. Block stem **8.5"**. Stud **74 × 1.5 × 3.5"** (2×4). Sill **5.5 × 1.5 × Y** (that's a **2×6** plate; Y not taped). 74 + 1.5 + 3" (likely double top plate) = 78.5"; 87 − 8.5 = 78.5" — so 87" is probably **top of wall to bottom of the block**.
+- Wall top-to-bottom **87"**. Block stem **8.5"**. Stud **74 × 1.5 × 3.5"** (2×4). Sill **5.5 × 1.5 × Y** (that's a **2×6** plate; Y not taped). **Double top plate** confirmed. 74 + 1.5 + 3" = 78.5"; 87 − 8.5 = 78.5" — 87" is **top of wall to bottom of the block**.
 - Hardware cloth: **56 ft** of perimeter. One 24"×25 ft roll of 1/4" cloth, ripped into 8" strips, covers it with leftover for jambs.
 - Still need: roof pitch or one rafter / ridge height (foil + solar), gap width at the block line, whether the 2×6 is treated, Y if we replace plate.
 

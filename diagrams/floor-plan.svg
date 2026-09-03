@@ -21,8 +21,8 @@
 
   <text x="480" y="280" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#1b1612">12 x 16 ft</text>
   <text x="480" y="308" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#5c5146">about 192 sq ft footprint</text>
-  <text x="480" y="332" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#5c5146">2x4 studs 74 in · 2x6 sill 5.5 x 1.5 in · block about 8.5 in</text>
-  <text x="480" y="354" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#5c5146">wall top-to-bottom 87 in (likely includes the block)</text>
+  <text x="480" y="332" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#5c5146">2x4 studs 74 in · 2x6 sill 1.5 in · double top plate 3 in · block 8.5 in</text>
+  <text x="480" y="354" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#5c5146">87 in top of wall to bottom of block (78.5 in wood + 8.5 in block)</text>
   <text x="480" y="400" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#334155">Ridge runs the 16 ft way. Solar = one 16 ft roof face (pitch TBD).</text>
 
   <text x="480" y="560" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#555">Cloth run about 56 ft of perimeter (2x16 + 2x12). One 24 in x 25 ft roll of 1/4 in cloth, cut into 8 in strips, is enough.</text>
