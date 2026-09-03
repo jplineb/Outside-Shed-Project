@@ -4,7 +4,7 @@
 - [ ] Treat the **active** yellow jacket nest under the gutters (dusk/dawn), wait, then scrape remnants and reseat gutter guards
 
 ## Phase 1 — Clear and measure
-- [x] Measure foundation + door + window + wall/stud/sill/block (16 × 12 ft; see [NOTES.md](NOTES.md) and [diagrams/floor-plan.svg](diagrams/floor-plan.svg))
+- [x] Measure foundation + door + window + wall/stud/sill/block (16 × 12 ft; see [NOTES.md](NOTES.md) and [diagrams/floor-plan.png](diagrams/floor-plan.png))
 - [ ] Measure roof face for solar (one eave-to-ridge rafter length, or pitch + ridge height)
 - [ ] Measure the exterior wall-to-block gap width (the hole the cloth has to fill)
 - [ ] Get rid of more junk (mower / chairs / wheelbarrow / leftover yard stuff — bike can stay)

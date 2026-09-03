@@ -1,13 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" role="img" aria-label="16 by 12 shed floor plan from measured foundation">
   <rect width="960" height="620" fill="#f7f5f0"/>
-  <text x="480" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1f1f1f">16 x 12 foundation — first measurements</text>
+  <text x="480" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1f1f1f">16 x 12 foundation  -  first measurements</text>
   <text x="480" y="56" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#555">Door on the 16 ft eave wall. Gables are the 12 ft ends. Still need roof pitch and the wall-to-block gap.</text>
 
   <!-- plan box: 16 ft = 560 px, 12 ft = 420 px at 35 px/ft -->
   <rect x="200" y="90" width="560" height="420" fill="#fff" stroke="#1b1612" stroke-width="3"/>
 
-  <text x="480" y="80" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#2f6b3a">16 ft — back eave (2 soffit vents, no gutter)</text>
-  <text x="480" y="528" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#2f6b3a">16 ft — door side (gutter + nest)</text>
+  <text x="480" y="80" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#2f6b3a">16 ft  -  back eave (2 soffit vents, no gutter)</text>
+  <text x="480" y="528" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#2f6b3a">16 ft  -  door side (gutter + nest)</text>
   <text x="188" y="300" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#2f6b3a" transform="rotate(-90 188 300)">12 ft gable</text>
   <text x="788" y="300" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#2f6b3a" transform="rotate(-90 788 300)">12 ft gable</text>
 
@@ -21,7 +22,7 @@
 
   <text x="480" y="280" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#1b1612">12 x 16 ft</text>
   <text x="480" y="308" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#5c5146">about 192 sq ft footprint</text>
-  <text x="480" y="332" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#5c5146">2x4 studs 74 in · 2x6 sill 1.5 in · double top plate 3 in · block 8.5 in</text>
+  <text x="480" y="332" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#5c5146">2x4 studs 74 in  /  2x6 sill 1.5 in  /  double top plate 3 in  /  block 8.5 in</text>
   <text x="480" y="354" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#5c5146">87 in top of wall to bottom of block (78.5 in wood + 8.5 in block)</text>
   <text x="480" y="400" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#334155">Ridge runs the 16 ft way. Solar = one 16 ft roof face (pitch TBD).</text>
 

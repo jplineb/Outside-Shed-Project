@@ -1,13 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="Radiant barrier: staple to rafters, not to the OSB">
   <rect width="960" height="540" fill="#f7f5f0"/>
-  <text x="480" y="36" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1f1f1f">Radiant barrier in your shed  it needs an air gap</text>
+  <text x="480" y="36" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1f1f1f">Radiant barrier in your shed  -  it needs an air gap</text>
   <text x="480" y="58" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#555">Staple foil across the bottom of the 2x4s. Do not glue it to the OSB.</text>
 
   <!-- LEFT: do this -->
   <rect x="28" y="78" width="440" height="430" rx="10" fill="#fff" stroke="#2f6b3a" stroke-width="2"/>
   <rect x="28" y="78" width="440" height="38" rx="10" fill="#2f6b3a"/>
   <rect x="28" y="96" width="440" height="20" fill="#2f6b3a"/>
-  <text x="248" y="103" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#fff">DO THIS  staple to the rafters</text>
+  <text x="248" y="103" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#fff">DO THIS  -  staple to the rafters</text>
 
   <!-- shingles -->
   <rect x="70" y="140" width="356" height="18" fill="#3d3d42"/>
@@ -41,7 +42,7 @@
   <line x1="392" y1="292" x2="392" y2="310" stroke="#111" stroke-width="2"/>
 
   <!-- heat arrows reflecting -->
-  <path d="M170 188 v70" stroke="#d35400" stroke-width="2" fill="none" marker-end="url(#arrowOrange)"/>
+  <path d="M170 188 v70" stroke="#d35400" stroke-width="2" fill="none"/>
   <path d="M170 258 l18 -28" stroke="#d35400" stroke-width="2" fill="none"/>
   <path d="M330 188 v70" stroke="#d35400" stroke-width="2" fill="none"/>
   <path d="M330 258 l-18 -28" stroke="#d35400" stroke-width="2" fill="none"/>
@@ -56,7 +57,7 @@
   <rect x="492" y="78" width="440" height="430" rx="10" fill="#fff" stroke="#a33" stroke-width="2"/>
   <rect x="492" y="78" width="440" height="38" rx="10" fill="#a33"/>
   <rect x="492" y="96" width="440" height="20" fill="#a33"/>
-  <text x="712" y="103" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#fff">DON'T  foil stuck to the OSB</text>
+  <text x="712" y="103" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#fff">DON'T  -  foil stuck to the OSB</text>
 
   <rect x="534" y="140" width="356" height="18" fill="#3d3d42"/>
   <text x="712" y="153" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#eee">Shingles (outside)</text>
@@ -65,7 +66,7 @@
 
   <!-- foil glued to OSB -->
   <rect x="534" y="186" width="356" height="8" fill="#c9d4dc" stroke="#7a8a96"/>
-  <text x="712" y="212" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#a33">Foil glued tight  no air gap</text>
+  <text x="712" y="212" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#a33">Foil glued tight  -  no air gap</text>
 
   <rect x="582" y="194" width="28" height="110" fill="#d9b07a" stroke="#8a6a3b" stroke-width="2"/>
   <rect x="712" y="194" width="28" height="110" fill="#d9b07a" stroke="#8a6a3b" stroke-width="2"/>
@@ -75,7 +76,7 @@
   <path d="M764 194 v120" stroke="#d35400" stroke-width="2" fill="none"/>
   <text x="712" y="250" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#d35400">heat still pours through</text>
 
-  <text x="712" y="360" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#333">Workspace still ~105°F</text>
+  <text x="712" y="360" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#333">Workspace still ~105 deg F</text>
   <text x="712" y="430" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#a33">Without a gap, the foil just becomes</text>
   <text x="712" y="448" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#a33">another hot layer on the roof.</text>
 </svg>
