@@ -29,6 +29,7 @@ diagrams/          how-to drawings
   radiant-barrier-diagram.png
   radiant-barrier.svg
   sill-seal.svg
+  floor-plan.svg
 ```
 
 There is no `shed-project/` folder. Photo paths are lowercase `photos/`, not `Photos/` or `Photos/Untitled/`.
@@ -67,8 +68,8 @@ Do not reopen locked decisions below unless the user explicitly changes them.
 
 ## Still unknown
 
-- Exact dimensions (exterior L × W × H, door, window, roof face for solar). Rough guess only: 8–12 ft.
-- Exterior wall-to-block gap width. Sill plate is present; treated? how soft are the stained bottoms?
+- **Measured:** 16 ft (door/eave) × 12 ft (gable) foundation; 87" wall top-to-bottom; door 48×75.5" (two ~24" leaves); window 18×22"; 2×4 studs 74×1.5×3.5"; 2×6 sill 5.5×1.5×Y; block stem ~8.5". See diagrams/floor-plan.svg.
+- Still need: roof face / pitch / ridge height; wall-to-block gap width; whether the 2×6 is treated; how soft the stained bottoms are.
 - Whether the crumbly pile on the sill is dirt, punky rot, or insect frass.
 - Whether the small ridge vent leaks.
 - Back eave has two soffit vents; front gutter/eave has none. Still unknown whether the two are enough once the ridge path is cleaned/open.

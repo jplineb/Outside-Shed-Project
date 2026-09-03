@@ -2,6 +2,14 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-03 (first measurements)
+- Foundation **16 ft (door/eave walls) × 12 ft (gables)**. ~192 sq ft. Bigger than the 8–12 ft guess. Plan: [diagrams/floor-plan.svg](diagrams/floor-plan.svg).
+- Door: opening **48 × 75.5"**; each leaf **~24-1/16 × 75"**; closed exterior pair **46 × 75"**. Double door, keep the frame, repair bottoms. Bikes / mower / wheelbarrow fit.
+- Window (jalousie): **18 × 22"**.
+- Wall top-to-bottom **87"**. Block stem **8.5"**. Stud **74 × 1.5 × 3.5"** (2×4). Sill **5.5 × 1.5 × Y** (that's a **2×6** plate; Y not taped). 74 + 1.5 + 3" (likely double top plate) = 78.5"; 87 − 8.5 = 78.5" — so 87" is probably **top of wall to bottom of the block**.
+- Hardware cloth: **56 ft** of perimeter. One 24"×25 ft roll of 1/4" cloth, ripped into 8" strips, covers it with leftover for jambs.
+- Still need: roof pitch or one rafter / ridge height (foil + solar), gap width at the block line, whether the 2×6 is treated, Y if we replace plate.
+
 ## 2026-09-03 (no bug bomb)
 - Don't buy a fogger / bug bomb. This shed is full of exits (block-line gap, jalousie, soffit vents, ridge vent, doors). The fog mostly leaves. It will not treat the **yellow jacket nest under the gutters** (that's a dusk/dawn nest spray, Phase 0). It doesn't soak the sill gap or droppings. Gas cans in the shed + a fogger is a fire hazard. Stick with: nest spray outside, then wet-clean, crack-and-crevice residual, baits, DE/boric in the gap, then seal with hardware cloth.
 

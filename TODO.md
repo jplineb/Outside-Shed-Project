@@ -4,7 +4,9 @@
 - [ ] Treat the **active** yellow jacket nest under the gutters (dusk/dawn), wait, then scrape remnants and reseat gutter guards
 
 ## Phase 1 — Clear and measure
-- [ ] Measure the shed (exterior L × W × H, door opening, window, roof face for solar)
+- [x] Measure foundation + door + window + wall/stud/sill/block (16 × 12 ft; see [NOTES.md](NOTES.md) and [diagrams/floor-plan.svg](diagrams/floor-plan.svg))
+- [ ] Measure roof face for solar (one eave-to-ridge rafter length, or pitch + ridge height)
+- [ ] Measure the exterior wall-to-block gap width (the hole the cloth has to fill)
 - [ ] Get rid of more junk (mower / chairs / wheelbarrow / leftover yard stuff — bike can stay)
 - [ ] Take lumber and corrugated sheets **off the collar ties** (they block the radiant-barrier staple-up)
 - [ ] Walk the gas cans out of the 105°F box until the shed is ventilated
@@ -85,13 +87,13 @@ Do this **after** Phase 1 cleanup + the screwdriver test. If bottoms are punky, 
 - [ ] Keep soil and grass off the siding. A 2–3" gravel drip strip is enough if you want one
 
 ### Shopping / gather list (envelope)
-- [ ] 1/4" galvanized hardware cloth (a 2–3 ft × 10–25 ft roll covers a small shed)
+- [ ] 1/4" galvanized hardware cloth — **24" × 25 ft roll** (cut into 8" strips ≈ 75 ft; perimeter is **56 ft**)
 - [ ] Tin snips + gloves (the cloth cuts you)
 - [ ] Staple gun or 3/4" roofing nails; masonry screws if you want the flashing in the block
 - [ ] Aluminum Z-flashing **or** coil stock you can bend **or** 1x6 PT / PVC trim for a skirt
 - [ ] Exterior screws for the skirt / kick plate
 - [ ] Downspout elbow + 4–6 ft extension (or a splash block)
-- [ ] Door sweep + thin aluminum / galvanized kick plate
+- [ ] Door sweep + thin aluminum / galvanized kick plate (**two** 24" leaves, or one 48" sweep if you prefer)
 - [ ] Exterior-grade caulk for corner trim joints only (not a substitute for cloth)
 - [ ] If sistering: treated 2x4s, 3" exterior screws, maybe a short run of treated plate
 - [ ] Optional: small can of low-expansion foam for *behind* the cloth only
@@ -107,8 +109,8 @@ Do this **after** Phase 1 cleanup + the screwdriver test. If bottoms are punky, 
 - [ ] Modest solar: lights + cordless-tool charging + fan (small inverter is enough; no compressor / table-saw loads)
 
 ## Open questions
-- Exact dimensions still unmeasured.
+- Roof face / pitch / ridge height (for foil quantity and solar).
 - How wide is the exterior wall-to-block gap?
-- Sill plate is present. Is it treated? How soft are the stained bottoms?
+- Sill is a **2×6** (5.5 × 1.5). Treated? How soft are the stained bottoms? Run length Y not taped.
 - Is the crumbly material on the sill dirt, punky rot, or insect frass?
 - Does the small ridge vent leak?
