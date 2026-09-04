@@ -17,6 +17,7 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 .
 ├── README.md      ← you are here (map + current snapshot)
 ├── TODO.md        ← checkboxes; this is how we track progress
+├── SECOND-OPINION.md ← independent review: what a second look would do differently
 ├── NOTES.md       ← dated discussion / decision log (newest first)
 ├── index.html     ← progress site (GitHub Pages)
 ├── site.css
@@ -35,7 +36,10 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
     ├── sill-seal.png
     ├── sill-seal.svg
     ├── floor-plan.png
-    └── floor-plan.svg
+    ├── floor-plan.svg
+    ├── alt-water-first.png / .svg      ← second opinion: splash, not the gap
+    ├── alt-two-air-loops.png / .svg    ← second opinion: roof cavity vs room air
+    └── alt-barrier-plane.png / .svg    ← second opinion: foil on rafters vs collar ties
 ```
 
 **How to track progress**
@@ -56,6 +60,7 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 ## Current snapshot
 
 - **Next action:** treat the **active yellow jacket nest** under the gutters (dusk/dawn). Don't start eave/roof work until it's gone. Interior cleanup (dust, bugs, droppings) shopping list is in [TODO.md](TODO.md) Phase 1.
+- **Second opinion on file:** [SECOND-OPINION.md](SECOND-OPINION.md) re-reads the same photos and argues for water-at-the-ground first, a bigger fan, foil earlier, and four locked decisions worth re-checking. Nothing locked was changed.
 - **Use:** bikes + house projects; cordless tools only. High-voltage work stays in the primary garage.
 - **Comfort:** must be workable. Currently ~**105°F** midday. Path = interior radiant barrier + exhaust fan + lighter paint. No AC. Very humid SC summers — swamp cooler won't work.
 - **Power:** none on site. Modest solar later (lights, charging, fan). Cleanup sessions: battery lights/fan or a GFCI outdoor cord — not AC on a long run.

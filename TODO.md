@@ -5,8 +5,11 @@
 
 ## Phase 1 — Clear and measure
 - [x] Measure foundation + door + window + wall/stud/sill/block (16 × 12 ft; see [NOTES.md](NOTES.md) and [diagrams/floor-plan.png](diagrams/floor-plan.png))
-- [ ] Measure roof face for solar (one eave-to-ridge rafter length, or pitch + ridge height)
-- [ ] Measure the exterior wall-to-block gap width (the hole the cloth has to fill)
+- [ ] Measure roof face for solar (one eave-to-ridge rafter length, or pitch + ridge height). No ladder needed: hold a phone level app flat on the underside of a rafter, pitch = 12 x tan(angle)
+- [ ] Measure the exterior wall-to-block gap width (the hole the cloth has to fill) — **before** buying the cloth roll
+- [ ] Trace the blue stapled line on the roof deck with a non-contact voltage tester before any foil goes up (see [SECOND-OPINION.md](SECOND-OPINION.md))
+- [ ] Pull the big flat panel leaning against the front wall — it traps water on the siding and it is what hides the left jalousie in [photos/exterior.jpg](photos/exterior.jpg)
+- [ ] Shovel the dirt berm out of the inside wall-to-slab corner. It holds water against the plate for days and it is free to fix
 - [ ] Get rid of more junk (mower / chairs / wheelbarrow / leftover yard stuff — bike can stay)
 - [ ] Take lumber and corrugated sheets **off the collar ties** (they block the radiant-barrier staple-up)
 - [ ] Walk the gas cans out of the 105°F box until the shed is ventilated
@@ -71,7 +74,18 @@ Do this **early or late**, doors + jalousie open. **Do not dry-sweep droppings**
 - [ ] Fix gaps between wall and foundation (hardware cloth + trim/flashing, not foam-only)
 - [ ] Point the downspout **away** from the corner (elbow + 4–6 ft extension or splash block) — it currently dumps on the foundation
 - [ ] Repair door bottoms; keep the existing frame; add a sweep / kick plate
+- [ ] Door, the part the sweep does not fix: astragal on the two meeting stiles + a threshold at the slab. The gap between the leaves is a bigger hole than the block line
+- [ ] Check which way the door's diagonal brace runs (bottom hinge corner up to top latch corner) and string the top plate over the 48 in opening for sag — a binding leaf is why the bottom drags and rots
 - [ ] Re-paint (prefer a lighter color than the current faded tan — helps the 105°F problem)
+
+### Water first — do this group before the Phase 1 cleanup
+Only one eave has a gutter, so roughly 100 sq ft of roof free-sheds in a line along the un-guttered wall — about 63 gallons per inch of rain. Drying takes weeks, so this is the one group with real latency. Start it first, and probe the wood only after it has had dry time. Reasoning in [SECOND-OPINION.md](SECOND-OPINION.md).
+
+- [ ] Gravel drip strip, 12–18 in wide, along the eaves and gables with no gutter (cannot clog, nothing nests in it, no ladder)
+- [ ] Downspout elbow + 4–6 ft extension on the guttered side
+- [ ] Cut the grass and soil line back off the siding
+- [ ] Prime or paint the raw bottom edge of the T1-11 — that exposed end grain wicks splash straight into the wall
+- [ ] Check the sill plate at **each anchor bolt**, not just between them. A washer sinking into soft wood is a lost hold-down, which is structural
 
 ### Sill / block-line seal (after the probe)
 Do this **after** Phase 1 cleanup + the screwdriver test. If bottoms are punky, sister or swap plate sections first. See [diagrams/sill-seal.png](diagrams/sill-seal.png).
@@ -102,13 +116,18 @@ Do this **after** Phase 1 cleanup + the screwdriver test. If bottoms are punky, 
 - [ ] Install interior radiant barrier: staple to the **underside of the rafters** (not tight to the OSB) so a 1"+ air gap stays against the hot deck; leave the **ridge vent and back soffit vents** unblocked
 - [ ] Seal daylight gaps at corners and roof-to-wall joints (not only the foundation line)
 - [ ] After the nest is gone: knock webs off the back soffit vents so they actually pull (don't paint the louvers shut)
+- [ ] Add 3–4 louvered vents in the **front** eave soffit (about 45 sq in of free area). The back louvers are in the sloped rake soffit and short-circuit to the ridge, so no rafter bay currently has intake (see [SECOND-OPINION.md](SECOND-OPINION.md))
 - [ ] Add an exhaust fan (**both jalousies** as intake, exhaust high on the opposite side or gable) — soffit vents are for the roof bay, not a substitute for this
+- [ ] Size that fan **800 CFM minimum, 1,500–2,000 ideal** (the room is ~1,400 cu ft). A 100 CFM vent fan is 4 air changes an hour and you will not feel it. Keep the fan on the room side of the foil
+- [ ] Buy a $20 infrared thermometer and log deck vs foil surface temps before and after — the air temp will understate what the foil did
 - [ ] Optional later: foil-faced foam on walls if roof + fan isn't enough
 
 ## Phase 4 — Power (keep it small)
 - [ ] Modest solar: lights + cordless-tool charging + fan (small inverter is enough; no compressor / table-saw loads)
 
 ## Open questions
+- Is the blue stapled line on the roof deck live, and where does it go? (It is held by metal cable staples, so it is hardware, not chalk.)
+- Are the back louvers in the flat eave soffit or the sloped rake soffit? That decides whether the rafter bays have any intake.
 - Roof face / pitch / ridge height (for foil quantity and solar).
 - How wide is the exterior wall-to-block gap?
 - Sill is a **2×6** (5.5 × 1.5). Treated? How soft are the stained bottoms? Run length Y not taped.
