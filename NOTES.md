@@ -2,6 +2,12 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-04 (second opinion review)
+- Added [SECOND-OPINION.md](SECOND-OPINION.md): an independent re-read of the same photos and measurements, listing only what a second look would do differently. Locked decisions were **not** edited; the four it disagrees with are flagged in the doc with evidence, for you to accept or reject.
+- Headline changes it argues for: (1) the biggest water source is the **un-guttered eave** — about 100 sq ft of roof free-shedding in a line along the wall, roughly 63 gallons per inch of rain — not the block-line gap or the front downspout; (2) **water fixes go first** because drying is the only task with weeks of latency, and a probe on wet wood over-reads as punky; (3) the blue line on the deck is held by **metal cable staples**, so trace it before stapling foil; (4) the back louvers look like **rake** soffit vents in the gable overhang, which short-circuit to the ridge, so no rafter bay has intake; (5) **fan size is the heat lever** — 800 CFM minimum against a ~1,400 cu ft room, and the two jalousies are right at the intake limit; (6) the realistic comfort target is **ambient plus 3-5 deg F**, so working early or late beats any hardware.
+- Also new: skip the flashing skirt and leave the screened gap vented; astragal + threshold on the doors, not just a sweep; check the plate at each **anchor bolt** (hold-down, not just rot); 3-4 vents in the front eave soffit; 2x4 hanging rails instead of lining the walls with sheet goods; PV-direct DC fan with no inverter and no roof penetrations.
+- New diagrams, alternative names so nothing was overwritten: [diagrams/alt-water-first.png](diagrams/alt-water-first.png), [diagrams/alt-two-air-loops.png](diagrams/alt-two-air-loops.png), [diagrams/alt-barrier-plane.png](diagrams/alt-barrier-plane.png). SVG sources next to each.
+
 ## 2026-09-04 (always export diagram PNGs)
 - Locked workflow: **any SVG create/edit in `diagrams/` must also write the matching PNG** (1920px wide) in the same commit. Site and phones read the PNG; SVG stays the source. Pair names in `.cursorrules`.
 

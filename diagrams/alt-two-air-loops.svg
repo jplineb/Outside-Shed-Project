@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-label="Alternate view: the shed needs two separate air loops, and only one of them cools you">
+  <rect width="960" height="720" fill="#f7f5f0"/>
+  <text x="480" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1f1f1f">Second opinion: there are two air loops, and only one of them cools you</text>
+  <text x="480" y="56" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#555">The roof cavity loop protects the foil. The room loop is the one you feel. Do not confuse the vents that serve them.</text>
+
+  <!-- ============ LEFT: roof cavity loop ============ -->
+  <rect x="26" y="76" width="450" height="416" rx="10" fill="#fff" stroke="#1d4e89" stroke-width="2"/>
+  <rect x="26" y="76" width="450" height="32" rx="10" fill="#1d4e89"/>
+  <rect x="26" y="94" width="450" height="14" fill="#1d4e89"/>
+  <text x="251" y="98" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#fff">LOOP A - inside the roof cavity</text>
+
+  <!-- roof section: ridge at 251,152 ; eaves at 66,248 and 436,248 -->
+  <polygon points="251,152 66,248 66,260 251,164" fill="#3d3d42"/>
+  <polygon points="251,152 436,248 436,260 251,164" fill="#3d3d42"/>
+  <polygon points="251,166 74,258 74,268 251,176" fill="#c4a574" stroke="#8a6a3b"/>
+  <polygon points="251,166 428,258 428,268 251,176" fill="#c4a574" stroke="#8a6a3b"/>
+
+  <!-- foil plane under the rafters -->
+  <line x1="248" y1="198" x2="88" y2="282" stroke="#8fa3b0" stroke-width="4" stroke-dasharray="10 5"/>
+  <line x1="254" y1="198" x2="414" y2="282" stroke="#8fa3b0" stroke-width="4" stroke-dasharray="10 5"/>
+  <text x="316" y="228" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#41627a" transform="rotate(27.7 316 228)">foil + air gap</text>
+
+  <!-- walls + floor -->
+  <line x1="76" y1="264" x2="76" y2="336" stroke="#8a6a3b" stroke-width="8"/>
+  <line x1="426" y1="264" x2="426" y2="336" stroke="#8a6a3b" stroke-width="8"/>
+  <line x1="66" y1="340" x2="436" y2="340" stroke="#8f8b82" stroke-width="8"/>
+
+  <!-- ridge vent -->
+  <rect x="228" y="142" width="46" height="10" fill="#9aa5ac" stroke="#5c666c"/>
+  <path d="M251 138 v-16" stroke="#1d4e89" stroke-width="3"/>
+  <polygon points="251,116 245,128 257,128" fill="#1d4e89"/>
+  <text x="222" y="130" text-anchor="end" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#1d4e89">ridge vent (works)</text>
+
+  <!-- rake vent short circuit -->
+  <path d="M398 168 C 350 148 300 140 274 144" fill="none" stroke="#a33" stroke-width="3" stroke-dasharray="8 5"/>
+  <polygon points="274,144 286,138 287,151" fill="#a33"/>
+  <text x="404" y="164" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#a33">rake</text>
+  <text x="404" y="179" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#a33">vents</text>
+
+  <!-- missing eave intake -->
+  <circle cx="76" cy="256" r="17" fill="none" stroke="#a33" stroke-width="3"/>
+  <line x1="65" y1="245" x2="87" y2="267" stroke="#a33" stroke-width="3"/>
+  <text x="40" y="196" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#a33">no intake</text>
+  <text x="40" y="210" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#a33">on either eave</text>
+
+  <!-- the fix -->
+  <path d="M124 318 C 148 300 164 286 178 274" fill="none" stroke="#2f6b3a" stroke-width="3"/>
+  <polygon points="178,274 166,275 173,286" fill="#2f6b3a"/>
+  <text x="104" y="366" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#2f6b3a">Add 3 or 4 louvered vents in the front eave soffit.</text>
+  <text x="104" y="382" font-family="system-ui, sans-serif" font-size="11" fill="#2f6b3a">About 45 sq in of free area total - roughly 18 dollars and a hole saw.</text>
+
+  <text x="46" y="412" font-family="system-ui, sans-serif" font-size="12" fill="#333">The louvers in the back gable overhang open right next to the ridge, so</text>
+  <text x="46" y="429" font-family="system-ui, sans-serif" font-size="12" fill="#333">their air short-circuits out the ridge and never travels down a rafter bay.</text>
+  <text x="46" y="453" font-family="system-ui, sans-serif" font-size="12" fill="#333">This loop never touches the room - it only lets the bay behind the foil</text>
+  <text x="46" y="470" font-family="system-ui, sans-serif" font-size="12" fill="#333">dump heat instead of storing it. Worth doing, but not your comfort fix.</text>
+
+  <!-- ============ RIGHT: room loop ============ -->
+  <rect x="484" y="76" width="450" height="416" rx="10" fill="#fff" stroke="#2f6b3a" stroke-width="2"/>
+  <rect x="484" y="76" width="450" height="32" rx="10" fill="#2f6b3a"/>
+  <rect x="484" y="94" width="450" height="14" fill="#2f6b3a"/>
+  <text x="709" y="98" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#fff">LOOP B - the room you stand in</text>
+
+  <!-- plan: 16 ft x 12 ft at 20 px/ft -->
+  <rect x="559" y="150" width="320" height="240" fill="#fdfbf6" stroke="#1b1612" stroke-width="3"/>
+  <text x="719" y="142" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#5c5146">16 ft - back eave</text>
+
+  <!-- door + jalousies on the front wall -->
+  <rect x="679" y="384" width="80" height="12" fill="#f3ead4" stroke="#8a2b12" stroke-width="2"/>
+  <text x="719" y="416" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#8a2b12">48 in door - about 12.5 sq ft open</text>
+  <rect x="604" y="386" width="30" height="8" fill="#d7eefc" stroke="#1d4e89" stroke-width="2"/>
+  <rect x="804" y="386" width="30" height="8" fill="#d7eefc" stroke="#1d4e89" stroke-width="2"/>
+  <text x="619" y="434" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#1d4e89">jalousie</text>
+  <text x="819" y="434" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#1d4e89">jalousie</text>
+
+  <!-- intake arrows -->
+  <g stroke="#2f6b3a" stroke-width="3" fill="none">
+    <path d="M619 372 v-20"/>
+    <path d="M719 372 v-20"/>
+    <path d="M819 372 v-20"/>
+  </g>
+  <polygon points="619,344 612,358 626,358" fill="#2f6b3a"/>
+  <polygon points="719,344 712,358 726,358" fill="#2f6b3a"/>
+  <polygon points="819,344 812,358 826,358" fill="#2f6b3a"/>
+
+  <!-- fan in the gable end wall -->
+  <rect x="551" y="238" width="14" height="64" fill="#333"/>
+  <circle cx="558" cy="270" r="18" fill="#fff" stroke="#333" stroke-width="3"/>
+  <path d="M558 254 A 16 16 0 0 1 572 278" fill="none" stroke="#333" stroke-width="3"/>
+  <path d="M558 286 A 16 16 0 0 1 544 262" fill="none" stroke="#333" stroke-width="3"/>
+  <path d="M534 270 h-30" stroke="#d35400" stroke-width="4"/>
+  <polygon points="498,270 514,262 514,278" fill="#d35400"/>
+  <text x="592" y="222" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#d35400">exhaust fan,</text>
+  <text x="592" y="238" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#d35400">high in the gable end</text>
+
+  <!-- room flow -->
+  <g stroke="#2f6b3a" stroke-width="2" stroke-dasharray="8 6" fill="none" opacity="0.85">
+    <path d="M619 344 C 610 300 596 286 584 274"/>
+    <path d="M719 344 C 710 296 650 280 586 272"/>
+    <path d="M819 344 C 810 292 670 270 586 268"/>
+  </g>
+  <text x="740" y="266" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#2f6b3a">about 1,400 cu ft of room</text>
+
+  <text x="504" y="462" font-family="system-ui, sans-serif" font-size="12" fill="#333">Both jalousies plus a door leaf as intake, one fan high on a gable as</text>
+  <text x="504" y="479" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#2f6b3a">exhaust. This is the loop that decides whether the shed is workable.</text>
+
+  <!-- ============ numbers ============ -->
+  <rect x="26" y="508" width="908" height="192" rx="10" fill="#fff" stroke="#c9c2b4" stroke-width="2"/>
+  <text x="480" y="534" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#1f1f1f">Size the fan, then check the intake can feed it</text>
+
+  <text x="52" y="562" font-family="system-ui, sans-serif" font-size="13" fill="#1f1f1f"><tspan font-weight="700">Room volume:</tspan> 16 x 12 x 7.25 ft plus the roof triangle = about 1,400-1,600 cu ft.</text>
+  <text x="52" y="584" font-family="system-ui, sans-serif" font-size="13" fill="#a33"><tspan font-weight="700">A 100 CFM bathroom-style fan</tspan> = 4 air changes per hour. You will not feel it. Do not buy one.</text>
+  <text x="52" y="606" font-family="system-ui, sans-serif" font-size="13" fill="#1f1f1f"><tspan font-weight="700">A 12 in gable fan, about 800 CFM</tspan> = a full air change every 2 minutes. This is the minimum worth wiring.</text>
+  <text x="52" y="628" font-family="system-ui, sans-serif" font-size="13" fill="#2f6b3a"><tspan font-weight="700">A 20 in box fan, about 1,500-2,000 CFM</tspan> = a change every 45-60 seconds. That is what a hot shop feels like.</text>
+
+  <text x="52" y="656" font-family="system-ui, sans-serif" font-size="13" fill="#1f1f1f"><tspan font-weight="700">Intake check:</tspan> free area needed, in sq ft, is roughly CFM divided by 500. At 1,500 CFM that is 3 sq ft.</text>
+  <text x="52" y="676" font-family="system-ui, sans-serif" font-size="13" fill="#1f1f1f">Two 18 x 22 jalousies pass roughly 3-4 sq ft wide open, so they are right at the limit. Above that, work with a door open -</text>
+  <text x="52" y="694" font-family="system-ui, sans-serif" font-size="13" fill="#a33">otherwise the fan takes its make-up air from the ridge and the sill gap, and pulls hot attic air and dust down onto you.</text>
+</svg>

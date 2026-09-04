@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 680" role="img" aria-label="Alternate view: the wall base is wet from roof splash, not from the block-line gap">
+  <rect width="960" height="680" fill="#f7f5f0"/>
+  <text x="480" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1f1f1f">Second opinion: the wall base is wet from splash, not from the gap</text>
+  <text x="480" y="56" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#555">Section through an un-guttered eave wall. Fix the water at the ground first, let it dry for weeks, then probe.</text>
+
+  <!-- ================= outside field ================= -->
+  <rect x="30" y="76" width="468" height="396" fill="#eef4f8"/>
+  <text x="46" y="96" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#1d4e89">OUTSIDE</text>
+
+  <!-- ================= roof, sloping up to the right ================= -->
+  <!-- underside line runs (390,214) to (700,150) -->
+  <polygon points="390,196 700,132 700,150 390,214" fill="#3d3d42"/>
+  <polygon points="392,214 700,150 700,164 392,228" fill="#c4a574" stroke="#8a6a3b"/>
+  <text x="560" y="176" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#eee" transform="rotate(-11.7 560 176)">shingles over OSB deck</text>
+  <!-- break line -->
+  <path d="M700 126 l10 10 l-10 10 l10 10 l-10 10 l10 10 l-10 10" fill="none" stroke="#8a6a3b" stroke-width="2"/>
+
+  <!-- no gutter marker at the eave edge -->
+  <circle cx="390" cy="205" r="17" fill="none" stroke="#a33" stroke-width="3"/>
+  <line x1="379" y1="194" x2="401" y2="216" stroke="#a33" stroke-width="3"/>
+  <text x="366" y="176" text-anchor="end" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#a33">no gutter here</text>
+
+  <!-- rain sheeting off the edge -->
+  <g stroke="#1d4e89" stroke-width="2" stroke-dasharray="7 6" opacity="0.85">
+    <line x1="388" y1="228" x2="380" y2="466"/>
+    <line x1="372" y1="232" x2="364" y2="466"/>
+    <line x1="356" y1="236" x2="348" y2="466"/>
+  </g>
+
+  <text x="52" y="268" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#1d4e89">About 100 sq ft of roof</text>
+  <text x="52" y="288" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#1d4e89">sheds off this one edge.</text>
+  <text x="52" y="312" font-family="system-ui, sans-serif" font-size="12" fill="#1d4e89">1 in of rain is about 63 gallons,</text>
+  <text x="52" y="329" font-family="system-ui, sans-serif" font-size="12" fill="#1d4e89">dumped in a 16 ft line about a</text>
+  <text x="52" y="346" font-family="system-ui, sans-serif" font-size="12" fill="#1d4e89">foot off the wall. Every storm.</text>
+
+  <!-- splash arrows back onto the siding -->
+  <g fill="none" stroke="#d35400" stroke-width="2.5">
+    <path d="M378 462 C 404 434 448 420 486 414"/>
+    <path d="M362 462 C 392 424 448 396 484 388"/>
+  </g>
+  <polygon points="486,414 475,409 477,421" fill="#d35400"/>
+  <polygon points="484,388 473,384 474,396" fill="#d35400"/>
+  <text x="52" y="392" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#d35400">splash zone</text>
+  <text x="52" y="410" font-family="system-ui, sans-serif" font-size="12" fill="#d35400">the bottom 6-10 in of siding,</text>
+  <text x="52" y="426" font-family="system-ui, sans-serif" font-size="12" fill="#d35400">which is exactly where the</text>
+  <text x="52" y="442" font-family="system-ui, sans-serif" font-size="12" fill="#d35400">stain sits on the inside</text>
+
+  <!-- grass / grade -->
+  <rect x="30" y="466" width="468" height="30" fill="#8fae6a"/>
+  <text x="46" y="486" font-family="system-ui, sans-serif" font-size="12" fill="#2d3a1b">grass and soil right up to the block</text>
+
+  <!-- ================= the wall ================= -->
+  <!-- siding -->
+  <rect x="488" y="192" width="10" height="214" fill="#d8c9a6" stroke="#8a6a3b"/>
+  <line x1="466" y1="300" x2="488" y2="300" stroke="#8a6a3b" stroke-width="1.5"/>
+  <text x="462" y="304" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" fill="#5c5146">T1-11 siding</text>
+  <!-- stud -->
+  <rect x="498" y="192" width="24" height="194" fill="#d9b07a" stroke="#8a6a3b"/>
+  <text x="510" y="270" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#3b2a12" transform="rotate(-90 510 270)">2x4 stud</text>
+  <!-- stain band on the inside face -->
+  <rect x="488" y="330" width="34" height="56" fill="#7a5230" opacity="0.5"/>
+  <!-- 2x6 sill plate -->
+  <rect x="490" y="386" width="42" height="12" fill="#c9a06a" stroke="#6b4a22" stroke-width="2"/>
+  <!-- block -->
+  <rect x="488" y="398" width="58" height="58" fill="#cfcbc2" stroke="#8f8b82" stroke-width="2"/>
+  <line x1="488" y1="427" x2="546" y2="427" stroke="#8f8b82"/>
+  <text x="517" y="446" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#4a463f">block</text>
+  <!-- slab -->
+  <rect x="488" y="456" width="172" height="26" fill="#dedbd4" stroke="#8f8b82" stroke-width="2"/>
+  <path d="M660 452 l10 10 l-10 10 l10 10" fill="none" stroke="#8f8b82" stroke-width="2"/>
+  <text x="504" y="504" font-family="system-ui, sans-serif" font-size="12" fill="#4a463f">slab - the interior floor sits about 8.5 in below the sill plate</text>
+
+  <!-- the gap -->
+  <rect x="484" y="394" width="14" height="12" fill="none" stroke="#a33" stroke-width="2.5"/>
+  <line x1="466" y1="368" x2="484" y2="394" stroke="#a33" stroke-width="1.5"/>
+  <text x="462" y="364" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#a33">the gap</text>
+
+  <!-- anchor bolt -->
+  <line x1="512" y1="376" x2="512" y2="440" stroke="#333" stroke-width="3"/>
+  <rect x="502" y="378" width="20" height="6" fill="#555"/>
+
+  <!-- interior debris berm on the block ledge -->
+  <path d="M532 386 C 546 379 564 383 574 392 L 574 398 L 532 398 Z" fill="#7a5230"/>
+
+  <!-- ================= inside notes ================= -->
+  <rect x="600" y="196" width="330" height="132" rx="8" fill="#fff" stroke="#c9c2b4"/>
+  <text x="616" y="220" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#1d4e89">INSIDE - open studs, no interior skin</text>
+  <text x="616" y="242" font-family="system-ui, sans-serif" font-size="12" fill="#333">The plate can dry inward, so it does not need a</text>
+  <text x="616" y="259" font-family="system-ui, sans-serif" font-size="12" fill="#333">flashing skirt to survive. Screen the gap for mice,</text>
+  <text x="616" y="276" font-family="system-ui, sans-serif" font-size="12" fill="#333">then leave it open and draining.</text>
+  <text x="616" y="300" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#a33">Do not line these walls with plywood.</text>
+  <text x="616" y="317" font-family="system-ui, sans-serif" font-size="12" fill="#333">Two flat 2x4 rails across the studs hold more for less.</text>
+
+  <line x1="512" y1="352" x2="596" y2="352" stroke="#666" stroke-width="1.5"/>
+  <text x="604" y="356" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#1f1f1f">Press on the plate right at the anchor bolt.</text>
+  <text x="604" y="373" font-family="system-ui, sans-serif" font-size="12" fill="#444">If the washer sinks into soft wood, that section of wall</text>
+  <text x="604" y="390" font-family="system-ui, sans-serif" font-size="12" fill="#444">has no hold-down left. That part is structural, not cosmetic.</text>
+
+  <line x1="574" y1="392" x2="596" y2="410" stroke="#7a5230" stroke-width="1.5"/>
+  <text x="604" y="414" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#7a5230">That dirt berm on the block ledge is a wick.</text>
+  <text x="604" y="431" font-family="system-ui, sans-serif" font-size="12" fill="#7a5230">It holds water against the plate for days after a storm.</text>
+  <text x="604" y="448" font-family="system-ui, sans-serif" font-size="12" fill="#7a5230">Shovelling it out costs nothing and is worth more than foam.</text>
+
+  <!-- ================= fix order ================= -->
+  <rect x="30" y="522" width="900" height="136" rx="10" fill="#fff" stroke="#2f6b3a" stroke-width="2"/>
+  <rect x="30" y="522" width="900" height="30" rx="10" fill="#2f6b3a"/>
+  <rect x="30" y="540" width="900" height="12" fill="#2f6b3a"/>
+  <text x="480" y="543" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#fff">Do these four first - one afternoon, roughly 50 dollars, and the drying clock starts</text>
+
+  <text x="50" y="578" font-family="system-ui, sans-serif" font-size="13" fill="#1f1f1f"><tspan font-weight="700">1.</tspan> Gravel drip strip, 12-18 in wide, along the eaves and gables that have no gutter. It cannot clog and nothing nests in it.</text>
+  <text x="50" y="600" font-family="system-ui, sans-serif" font-size="13" fill="#1f1f1f"><tspan font-weight="700">2.</tspan> Downspout elbow plus a 4-6 ft extension, so the guttered side stops dumping on the foundation corner.</text>
+  <text x="50" y="622" font-family="system-ui, sans-serif" font-size="13" fill="#1f1f1f"><tspan font-weight="700">3.</tspan> Cut the grass and soil line back off the siding, and pull the big panel leaning against the front wall.</text>
+  <text x="50" y="644" font-family="system-ui, sans-serif" font-size="13" fill="#1f1f1f"><tspan font-weight="700">4.</tspan> Prime or paint the raw bottom edge of the T1-11. That exposed end grain is the straw feeding the stain inside.</text>
+</svg>
