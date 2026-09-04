@@ -2,6 +2,11 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-04 (door centered, two jalousies)
+- Front wall: **door in the middle**, one **18 × 22" jalousie on each side**, each centered between the door and the corner. Plan updated: [diagrams/floor-plan.png](diagrams/floor-plan.png).
+- Better for the fan than one window: both jalousies as intake, exhaust still high on the back eave wall or a gable.
+- **Studs run all the way up to the sheathing** — open framed, no interior finish. Double top plate still sits under the rafters on the eave walls; gable studs continue up the triangle to the roof OSB.
+
 ## 2026-09-03 (diagram PNGs)
 - Exported the how-to SVGs to PNGs so they display cleanly on the progress site and phones: [diagrams/floor-plan.png](diagrams/floor-plan.png), [diagrams/sill-seal.png](diagrams/sill-seal.png), and a fresh [diagrams/radiant-barrier-diagram.png](diagrams/radiant-barrier-diagram.png). SVGs stay the editable source.
 
@@ -11,7 +16,7 @@ A brief, dated log of everything discussed for the shed improvement project. New
 ## 2026-09-03 (first measurements)
 - Foundation **16 ft (door/eave walls) × 12 ft (gables)**. ~192 sq ft. Bigger than the 8–12 ft guess. Plan: [diagrams/floor-plan.png](diagrams/floor-plan.png).
 - Door: opening **48 × 75.5"**; each leaf **~24-1/16 × 75"**; closed exterior pair **46 × 75"**. Double door, keep the frame, repair bottoms. Bikes / mower / wheelbarrow fit.
-- Window (jalousie): **18 × 22"**.
+- Windows: **two** 18 × 22" jalousies on the door wall, one each side of the centered 48" door.
 - Wall top-to-bottom **87"**. Block stem **8.5"**. Stud **74 × 1.5 × 3.5"** (2×4). Sill **5.5 × 1.5 × Y** (that's a **2×6** plate; Y not taped). **Double top plate** confirmed. 74 + 1.5 + 3" = 78.5"; 87 − 8.5 = 78.5" — 87" is **top of wall to bottom of the block**.
 - Hardware cloth: **56 ft** of perimeter. One 24"×25 ft roll of 1/4" cloth, ripped into 8" strips, covers it with leftover for jambs.
 - Still need: roof pitch or one rafter / ridge height (foil + solar), gap width at the block line, whether the 2×6 is treated, Y if we replace plate.
@@ -20,7 +25,7 @@ A brief, dated log of everything discussed for the shed improvement project. New
 - Don't buy a fogger / bug bomb. This shed is full of exits (block-line gap, jalousie, soffit vents, ridge vent, doors). The fog mostly leaves. It will not treat the **yellow jacket nest under the gutters** (that's a dusk/dawn nest spray, Phase 0). It doesn't soak the sill gap or droppings. Gas cans in the shed + a fogger is a fire hazard. Stick with: nest spray outside, then wet-clean, crack-and-crevice residual, baits, DE/boric in the gap, then seal with hardware cloth.
 
 ## 2026-09-03 (sill seal plan)
-- Salvageable-path sealing is now a Phase 2 sequence in [TODO.md](TODO.md). Cross-section: [diagrams/sill-seal.svg](diagrams/sill-seal.svg).
+- Salvageable-path sealing is now a Phase 2 sequence in [TODO.md](TODO.md). Cross-section: [diagrams/sill-seal.png](diagrams/sill-seal.png).
 - Stack (locked): **1/4" hardware cloth in the wall-to-block gap** (pests) + **Z-flashing or a PT/PVC skirt** that drips past the block (weather). Optional foam only *behind* the cloth. Never foam-only — it holds water on the plate and mice chew it.
 - Order: probe / sister first → clean the gap → cloth all the way around including door jambs → flashing/skirt → door sweep + kick plate last.
 - Extra water fix from [photos/exterior.jpg](photos/exterior.jpg): the **downspout dumps on the foundation corner**. Elbow + 4–6 ft extension (or a splash block) before we blame the siding. Keep grass/soil off the T1-11.

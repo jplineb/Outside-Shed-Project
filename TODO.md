@@ -74,7 +74,7 @@ Do this **early or late**, doors + jalousie open. **Do not dry-sweep droppings**
 - [ ] Re-paint (prefer a lighter color than the current faded tan — helps the 105°F problem)
 
 ### Sill / block-line seal (after the probe)
-Do this **after** Phase 1 cleanup + the screwdriver test. If bottoms are punky, sister or swap plate sections first. See [diagrams/sill-seal.svg](diagrams/sill-seal.svg).
+Do this **after** Phase 1 cleanup + the screwdriver test. If bottoms are punky, sister or swap plate sections first. See [diagrams/sill-seal.png](diagrams/sill-seal.png).
 
 - [ ] Measure the exterior wall-to-block gap (height and how far it runs) on all four sides + both door jambs
 - [ ] Scrape dirt, old foam, and webs out of the gap; shop-vac the plate from inside
@@ -102,7 +102,7 @@ Do this **after** Phase 1 cleanup + the screwdriver test. If bottoms are punky, 
 - [ ] Install interior radiant barrier: staple to the **underside of the rafters** (not tight to the OSB) so a 1"+ air gap stays against the hot deck; leave the **ridge vent and back soffit vents** unblocked
 - [ ] Seal daylight gaps at corners and roof-to-wall joints (not only the foundation line)
 - [ ] After the nest is gone: knock webs off the back soffit vents so they actually pull (don't paint the louvers shut)
-- [ ] Add an exhaust fan (jalousie as intake, exhaust high on the opposite side or gable) — soffit vents are for the roof bay, not a substitute for this
+- [ ] Add an exhaust fan (**both jalousies** as intake, exhaust high on the opposite side or gable) — soffit vents are for the roof bay, not a substitute for this
 - [ ] Optional later: foil-faced foam on walls if roof + fan isn't enough
 
 ## Phase 4 — Power (keep it small)
