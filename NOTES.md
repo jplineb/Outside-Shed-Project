@@ -2,6 +2,9 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-04 (always export diagram PNGs)
+- Locked workflow: **any SVG create/edit in `diagrams/` must also write the matching PNG** (1920px wide) in the same commit. Site and phones read the PNG; SVG stays the source. Pair names in `.cursorrules`.
+
 ## 2026-09-04 (door centered, two jalousies)
 - Front wall: **door in the middle**, one **18 × 22" jalousie on each side**, each centered between the door and the corner. Plan updated: [diagrams/floor-plan.png](diagrams/floor-plan.png).
 - Better for the fan than one window: both jalousies as intake, exhaust still high on the back eave wall or a gable.

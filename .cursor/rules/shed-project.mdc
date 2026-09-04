@@ -7,6 +7,7 @@ This is a DIY house / shed notes repo, not a software app. Follow `.cursorrules`
 
 - Track progress in `TODO.md` checkboxes and dated `NOTES.md` bullets (newest first).
 - Keep the layout at repo root: `README.md`, `TODO.md`, `NOTES.md`, `index.html` (progress site), `photos/`, `diagrams/`.
+- **Always export a PNG when you create or edit an SVG** in `diagrams/` (1920px wide). Do not leave the PNG stale. Pair: `floor-plan.svg` → `floor-plan.png`, `sill-seal.svg` → `sill-seal.png`, `radiant-barrier.svg` → `radiant-barrier-diagram.png`.
 - The progress site must keep reading `TODO.md` / `NOTES.md` live. Do not hardcode the checklist.
 - Commit and push to `main`. Do not open a pull request unless the user asks.
 - Do not reopen locked decisions in `.cursorrules` unless the user explicitly changes them.

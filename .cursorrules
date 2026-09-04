@@ -43,6 +43,13 @@ There is no `shed-project/` folder. Photo paths are lowercase `photos/`, not `Ph
 3. Add a short dated bullet at the **top** of `NOTES.md`.
 4. Commit and **push to `main`**. Do not open a pull request unless the user asks.
 
+## Diagrams (SVG + PNG)
+
+- **Always export a PNG whenever you create or edit an SVG.** Do not leave the PNG stale. The progress site and phones use the PNG; the SVG is the editable source.
+- Pair names: `diagrams/floor-plan.svg` → `diagrams/floor-plan.png`; `sill-seal.svg` → `sill-seal.png`; `radiant-barrier.svg` → `radiant-barrier-diagram.png`.
+- Render at **1920px** wide (keep the SVG viewBox aspect). `cairosvg` is fine: `svg2png(..., output_width=1920)`.
+- Keep SVG text XML-safe (ASCII or real UTF-8). No raw Windows dashes or control characters — those break the PNG export.
+
 Do not reopen locked decisions below unless the user explicitly changes them.
 
 ## Locked decisions
