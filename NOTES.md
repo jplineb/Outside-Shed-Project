@@ -2,6 +2,9 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-21 (nest gone)
+- Yellow jacket nest under the gutters is **gone**. Phase 0 treatment is done; eave/roof work is allowed. Leftover: scrape remnants and reseat gutter guards. Next real job is Phase 1 junk-out / wet-clean.
+
 ## 2026-09-04 (always export diagram PNGs)
 - Locked workflow: **any SVG create/edit in `diagrams/` must also write the matching PNG** (1920px wide) in the same commit. Site and phones read the PNG; SVG stays the source. Pair names in `.cursorrules`.
 
