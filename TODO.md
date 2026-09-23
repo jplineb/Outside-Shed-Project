@@ -1,7 +1,8 @@
 # Todo
 
 ## Phase 0 — Safety (do this first)
-- [ ] Treat the **active** yellow jacket nest under the gutters (dusk/dawn), wait, then scrape remnants and reseat gutter guards
+- [x] Yellow jacket nest under the gutters is **gone** (2026-09-21)
+- [ ] Scrape nest remnants and reseat gutter guards (eave work is now allowed)
 
 ## Phase 1 — Clear and measure
 - [x] Measure foundation + door + window + wall/stud/sill/block (16 × 12 ft; see [NOTES.md](NOTES.md) and [diagrams/floor-plan.png](diagrams/floor-plan.png))
@@ -18,13 +19,13 @@
 - [ ] Temporary light + airflow for those sessions: headlamp / battery work light + cordless fan (or garage-charged power station). Outdoor GFCI cord from the house only if you need a shop vac — not AC, not a swamp cooler. Work early/late.
 
 ### Cleanup sequence (bugs, dust, animal droppings)
-Do this **early or late**, doors + jalousie open. **Do not dry-sweep droppings** — wet them first so dust (and any rodent-borne germs) stay down. Nest under the gutters is still active: skip eave/roof scraping until that's treated.
+Do this **early or late**, doors + jalousie open. **Do not dry-sweep droppings** — wet them first so dust (and any rodent-borne germs) stay down. Nest is gone — eave/roof scraping is allowed.
 
 - [ ] Suit up (PPE below), then walk junk out — don't clean around piles
 - [ ] Open doors + window; set up work light + fan so you're not stirring a closed hot box
 - [ ] Wet-down droppings / nesting bits with disinfectant (spray until soaked; wait ~5 min)
 - [ ] Scoop poop + nesting into a contractor bag; double-bag; trash, don't compost
-- [ ] Knock down cobwebs / wasp remnants **inside** only (broom or vac) — leave exterior nest for Phase 0
+- [ ] Knock down cobwebs / wasp remnants inside (broom or vac); scrape leftover nest paper under the gutters if any remains
 - [ ] Vacuum floors, corners, rafter bays, and wall-to-block gaps (shop vac, not a household vac)
 - [ ] Wipe / mop walls and floor with disinfectant; second pass with a general cleaner if it's still grimy
 - [ ] Kill remaining crawlers: spray cracks/gaps, then a residual or bait (see shopping list)
@@ -57,13 +58,13 @@ Do this **early or late**, doors + jalousie open. **Do not dry-sweep droppings**
 - [ ] Headlamp / battery work light + **USB or cordless-tool fan** (not a 20" box fan on a bank)
 - [ ] Optional: USB-C PD power bank **20,000–27,000 mAh / ~70–100 Wh** (real Wh on the label). Charge in the garage. Shop vac still uses the GFCI cord.
 
-**Bugs (interior; nest spray is Phase 0)**
+**Bugs (interior)**
 - [ ] Residual crack-and-crevice insecticide (indoor-labeled)
 - [ ] Roach/ant bait stations if you've seen either
 - [ ] Diatomaceous earth (food-grade) or boric acid for the foundation gap
 - [ ] Sticky traps (mice) to confirm whether droppings are rodent vs something else
 - [ ] Optional: peppermint or other deterrent is not a substitute — traps + seal gaps later
-- Do **not** buy a bug bomb / fogger. Open gaps + soffit/ridge vents mean it mostly leaves the building. It misses the gutter nest, doesn't reach the sill gap, and is a fire hazard with gas cans in there.
+- Do **not** buy a bug bomb / fogger. Open gaps + soffit/ridge vents mean it mostly leaves the building. It doesn't reach the sill gap, and is a fire hazard with gas cans in there.
 
 **If droppings look like rodent (rice-shaped pellets)**
 - [ ] Snap traps or a covered bait station (don't leave poison open where pets/wildlife get it)
@@ -115,7 +116,7 @@ Do this **after** Phase 1 cleanup + the screwdriver test. If bottoms are punky, 
 ## Phase 3 — Heat (the 105°F problem)
 - [ ] Install interior radiant barrier: staple to the **underside of the rafters** (not tight to the OSB) so a 1"+ air gap stays against the hot deck; leave the **ridge vent and back soffit vents** unblocked
 - [ ] Seal daylight gaps at corners and roof-to-wall joints (not only the foundation line)
-- [ ] After the nest is gone: knock webs off the back soffit vents so they actually pull (don't paint the louvers shut)
+- [ ] Knock webs off the back soffit vents so they actually pull (don't paint the louvers shut)
 - [ ] Add 3–4 louvered vents in the **front** eave soffit (about 45 sq in of free area). The back louvers are in the sloped rake soffit and short-circuit to the ridge, so no rafter bay currently has intake (see [SECOND-OPINION.md](SECOND-OPINION.md))
 - [ ] Add an exhaust fan (**both jalousies** as intake, exhaust high on the opposite side or gable) — soffit vents are for the roof bay, not a substitute for this
 - [ ] Size that fan **800 CFM minimum, 1,500–2,000 ideal** (the room is ~1,400 cu ft). A 100 CFM vent fan is 4 air changes an hour and you will not feel it. Keep the fan on the room side of the foil

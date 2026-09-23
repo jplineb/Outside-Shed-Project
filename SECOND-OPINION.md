@@ -53,7 +53,7 @@ My diagrams are new files with new names, so nothing existing was overwritten:
 
 So you do not have to re-litigate these: perforated foil under the rafters with the bay left as an air gap; no bug
 bomb; no swamp cooler in SC humidity; hardware cloth rather than foam as the pest seal; repair the door in place
-rather than rebuilding the opening; battery tools only in the shed; nest before any eave work; probe before you seal;
+rather than rebuilding the opening; battery tools only in the shed; nest before any eave work (now done); probe before you seal;
 junk out before you clean; keep solar small. All of that is right, and the reasoning in `NOTES.md` for each is sound.
 
 ---
@@ -191,7 +191,7 @@ concrete reasons rather than preference — drying takes weeks, and a wet probe 
 
 | | Phase | Why here |
 |---|---|---|
-| 0 | Nest | Unchanged. Nothing at the eave happens first. |
+| 0 | Nest | Done 2026-09-21. Only the scrape and the gutter guards are left, and they no longer block anything. |
 | 1 | **Water at the ground** (gravel strip, downspout, grade, pull the leaning panel, shovel the interior berm) | One afternoon, ~$50, and it is the only task with weeks of latency. Start the clock. |
 | 2 | Junk out, clear the collar ties, clean | Unchanged, but now the walls are drying while you do it. |
 | 3 | **Foil, front eave intake vents, fan** | A few hours and one roll. Every later session is survivable. |
@@ -260,21 +260,18 @@ Two more cheap wins from the interior photos: the shed already has usable wall c
 wall, so buy less storage than you think. And a coat of white or light paint on the interior OSB gable ends makes a huge
 difference to how much light you need out of a battery lamp.
 
-## 11. The nest: dust beats a wet spray for a nest in a void
+## 11. The nest: the void is still there, even though the nest is not
 
-The plan says dusk-or-dawn nest spray. For a nest in an open void — behind a lifted gutter guard, which is what the
-photos suggest — an insecticidal dust is the better tool, because the workers walk it deep into the void and treat the
-part you cannot reach. A jetting aerosol mostly knocks down foragers at the entrance.
+The nest was treated and is **gone as of 2026-09-21**, so the treatment advice this section originally carried is
+moot. Three things from it still apply to the leftover scrape and to next summer:
 
-Three practical points that differ from the note as written:
-
-- Treat at **full dark**, not dusk. Yellow jackets are still flying at dusk in SC summer.
-- **Do not seal the entry immediately.** Blocking a treated nest can drive survivors further into the structure. Dust,
-  wait 48 hours of no traffic, then open it up, scrape, and reseat the guards.
-- **Do not do this from a ladder.** Treat from the ground with reach, and only go up after 48 quiet hours.
-
-And note the cause: a lifted gutter guard is what created that protected void in the first place. Which is another
-argument for the gravel strip over more gutter.
+- **The lifted gutter guard is what created the protected void in the first place.** Removing the paper without
+  reseating the guard leaves the same cavity open for the next queen. This is also another argument for the gravel
+  strip over more gutter — the gutter is the only part of this building that has ever housed a nest.
+- **Do not seal a void the same day you treat it,** if there is ever a next time. Blocking a freshly treated nest can
+  drive survivors further into the structure. Treat, wait 48 hours of no traffic, then open it up and scrape.
+- **Scrape from the ground where you can.** Old nest paper is not dangerous, but a ladder at the eave is, and there is
+  no longer any reason to rush it.
 
 ---
 
@@ -282,7 +279,7 @@ argument for the gravel strip over more gutter.
 
 | What | How | Why it is blocking |
 |---|---|---|
-| Roof pitch | Hold a phone level app flat against the underside of one rafter and read the angle. Pitch = 12 × tan(angle). Or measure the gable wall from the top plate to the underside of the ridge — that rise over a 6 ft run *is* the pitch. | You do not need the nest gone or a ladder. Sets the foil quantity and any solar layout. |
+| Roof pitch | Hold a phone level app flat against the underside of one rafter and read the angle. Pitch = 12 × tan(angle). Or measure the gable wall from the top plate to the underside of the ridge — that rise over a 6 ft run *is* the pitch. | No ladder needed, all from inside. Sets the foil quantity and any solar layout. |
 | Wall-to-block gap | Tape at four or five spots per side, plus both door jambs | Decides whether the cloth is a project or a non-issue. Do not buy the roll first. |
 | Is the blue line live | $15 non-contact voltage tester, then trace both ends | Do before stapling foil |
 | Plate at the anchor bolts | Thumb pressure and a screwdriver at each bolt, not just between them | The actual structural question |

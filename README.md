@@ -59,7 +59,7 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 
 ## Current snapshot
 
-- **Next action:** treat the **active yellow jacket nest** under the gutters (dusk/dawn). Don't start eave/roof work until it's gone. Interior cleanup (dust, bugs, droppings) shopping list is in [TODO.md](TODO.md) Phase 1.
+- **Next action:** scrape nest remnants and reseat gutter guards, then Phase 1 junk-out / wet-clean. Nest under the gutters is **gone** (2026-09-21). Cleanup shopping list is in [TODO.md](TODO.md).
 - **Second opinion on file:** [SECOND-OPINION.md](SECOND-OPINION.md) re-reads the same photos and argues for water-at-the-ground first, a bigger fan, foil earlier, and four locked decisions worth re-checking. Nothing locked was changed.
 - **Use:** bikes + house projects; cordless tools only. High-voltage work stays in the primary garage.
 - **Comfort:** must be workable. Currently ~**105°F** midday. Path = interior radiant barrier + exhaust fan + lighter paint. No AC. Very humid SC summers — swamp cooler won't work.
