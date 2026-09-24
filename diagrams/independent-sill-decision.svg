@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 680" role="img" aria-label="Evidence-led sill and wall-base repair decision">
+  <rect width="960" height="680" fill="#f6f3ec"/>
+  <text x="480" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="25" fill="#20242a">Wall base: diagnose first, then choose the detail</text>
+  <text x="480" y="64" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#505963">The photos do not reveal the hidden siding-to-sill-to-block geometry.</text>
+  <rect x="42" y="96" width="876" height="88" rx="12" fill="#fff" stroke="#316b88" stroke-width="3"/>
+  <text x="480" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#244e64">1. STOP THE CONFIRMED WATER + CLEAR THE VIEW</text>
+  <text x="480" y="151" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#303740">Extend downspout 4-6 ft - remove objects and vegetation - clean the ledge - do not cover anything yet</text>
+  <path d="M480 184 V215" stroke="#505963" stroke-width="3"/>
+  <polygon points="480,225 472,211 488,211" fill="#505963"/>
+  <rect x="42" y="225" width="876" height="100" rx="12" fill="#fff" stroke="#a87520" stroke-width="3"/>
+  <text x="480" y="254" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#765113">2. OBSERVE + EXPOSE</text>
+  <text x="480" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#303740">Watch runoff during rain - map moisture around all 56 ft - measure grade - expose the actual section</text>
+  <text x="480" y="303" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#303740">Probe sill, stud ends, sheathing edge, and anchor bearing; compare moisture readings over time</text>
+  <path d="M480 325 V356" stroke="#505963" stroke-width="3"/>
+  <polygon points="480,366 472,352 488,352" fill="#505963"/>
+  <text x="480" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#20242a">WHAT DOES THE EXPOSED SECTION SHOW?</text>
+  <path d="M480 400 V424 H166 V444 M480 424 V444 M480 424 H794 V444" fill="none" stroke="#505963" stroke-width="3"/>
+  <polygon points="166,454 158,440 174,440" fill="#505963"/>
+  <polygon points="480,454 472,440 488,440" fill="#505963"/>
+  <polygon points="794,454 786,440 802,440" fill="#505963"/>
+  <rect x="36" y="454" width="260" height="150" rx="12" fill="#edf6ef" stroke="#3f7b4c" stroke-width="3"/>
+  <text x="166" y="483" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#2e6139">A. DRAINING CAVITY</text>
+  <text x="166" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#303740">Sound wood; siding overlaps</text>
+  <text x="166" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#303740">an intentional drainage opening</text>
+  <text x="166" y="558" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#2e6139">Preserve drainage.</text>
+  <text x="166" y="578" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#303740">Add insect screen without</text>
+  <text x="166" y="596" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#303740">packing the opening solid.</text>
+  <rect x="350" y="454" width="260" height="150" rx="12" fill="#eef4fa" stroke="#316b88" stroke-width="3"/>
+  <text x="480" y="483" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#244e64">B. EXPOSED WALL / SILL</text>
+  <text x="480" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#303740">Sound wood, but the horizontal</text>
+  <text x="480" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#303740">gap admits pests or rain</text>
+  <text x="480" y="558" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#244e64">Screen + formed flashing.</text>
+  <text x="480" y="578" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#303740">Lap behind the shedding layer;</text>
+  <text x="480" y="596" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#303740">hemmed drip clears CMU face.</text>
+  <rect x="664" y="454" width="260" height="150" rx="12" fill="#faeeee" stroke="#a8433f" stroke-width="3"/>
+  <text x="794" y="483" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#853431">C. DECAY / LOST BEARING</text>
+  <text x="794" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#303740">Crushed fibers, section loss,</text>
+  <text x="794" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#303740">movement, or loose anchor washer</text>
+  <text x="794" y="558" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#853431">Support + repair first.</text>
+  <text x="794" y="578" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#303740">Restore wood and anchorage, add</text>
+  <text x="794" y="596" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#303740">capillary break, then flash.</text>
+  <rect x="42" y="626" width="876" height="36" rx="8" fill="#20242a"/>
+  <text x="480" y="649" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#fff">Do not choose 'skirt' or 'leave open' from a photo. Either can mishandle water in the wrong assembly.</text>
+</svg>

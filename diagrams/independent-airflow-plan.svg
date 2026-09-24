@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 680" role="img" aria-label="Verified room airflow and unverified roof ventilation paths">
+  <rect width="960" height="680" fill="#f6f3ec"/>
+  <text x="480" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="25" fill="#20242a">Two air paths - verify them separately</text>
+  <text x="480" y="64" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#505963">Room ventilation is a comfort system. Roof ventilation is an assembly/moisture system.</text>
+
+  <rect x="34" y="90" width="892" height="330" rx="14" fill="#fff" stroke="#505963" stroke-width="2"/>
+  <polygon points="480,120 160,250 800,250" fill="#d8b684" stroke="#795c35" stroke-width="4"/>
+  <line x1="480" y1="120" x2="160" y2="250" stroke="#34383d" stroke-width="13"/>
+  <line x1="480" y1="120" x2="800" y2="250" stroke="#34383d" stroke-width="13"/>
+  <line x1="175" y1="254" x2="175" y2="382" stroke="#795c35" stroke-width="14"/>
+  <line x1="785" y1="254" x2="785" y2="382" stroke="#795c35" stroke-width="14"/>
+  <line x1="160" y1="386" x2="800" y2="386" stroke="#8c8982" stroke-width="10"/>
+
+  <path d="M230 350 C350 315 610 315 720 265" fill="none" stroke="#378052" stroke-width="7"/>
+  <polygon points="736,258 716,255 723,274" fill="#378052"/>
+  <text x="465" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#2d6943">ROOM AIR: VERIFIED OPENINGS</text>
+  <text x="465" y="369" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#303740">Both jalousies / cracked door in - high weather-protected fan out</text>
+
+  <rect x="143" y="292" width="18" height="60" fill="#cce5f4" stroke="#316b88" stroke-width="2"/>
+  <text x="138" y="282" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#244e64">intake</text>
+  <circle cx="786" cy="265" r="28" fill="#fff" stroke="#34383d" stroke-width="4"/>
+  <path d="M786 241 C806 249 808 268 793 281 M786 289 C766 281 764 262 779 249" fill="none" stroke="#34383d" stroke-width="4"/>
+  <text x="822" y="268" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#303740">exhaust</text>
+
+  <path d="M212 230 C290 180 390 158 458 143" fill="none" stroke="#a87520" stroke-width="5" stroke-dasharray="10 7"/>
+  <path d="M748 230 C670 180 570 158 502 143" fill="none" stroke="#a87520" stroke-width="5" stroke-dasharray="10 7"/>
+  <polygon points="474,140 456,136 461,154" fill="#a87520"/>
+  <polygon points="486,140 504,136 499,154" fill="#a87520"/>
+  <text x="480" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#765113">ROOF PATH: UNVERIFIED</text>
+  <text x="480" y="212" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#303740">Vent locations, blocking, bay continuity, and ridge outlet must be confirmed on site.</text>
+  <circle cx="210" cy="242" r="15" fill="#fff" stroke="#a8433f" stroke-width="3"/>
+  <text x="210" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#a8433f">?</text>
+  <circle cx="480" cy="125" r="15" fill="#fff" stroke="#a8433f" stroke-width="3"/>
+  <text x="480" y="131" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#a8433f">?</text>
+
+  <rect x="34" y="444" width="430" height="200" rx="14" fill="#edf6ef" stroke="#3f7b4c" stroke-width="3"/>
+  <text x="249" y="476" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#2e6139">ROOM FAN STARTING RANGE</text>
+  <text x="62" y="510" font-family="Arial, sans-serif" font-size="15" fill="#303740">Estimated volume: 1,400-1,700 cu ft</text>
+  <text x="62" y="538" font-family="Arial, sans-serif" font-size="15" fill="#303740">10 ACH = 235-285 delivered CFM</text>
+  <text x="62" y="564" font-family="Arial, sans-serif" font-size="15" fill="#303740">20 ACH = 470-570 delivered CFM</text>
+  <text x="62" y="590" font-family="Arial, sans-serif" font-size="15" fill="#303740">30 ACH = 700-850 delivered CFM</text>
+  <text x="249" y="622" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#2e6139">Try controllable 500-800 CFM, then measure.</text>
+
+  <rect x="496" y="444" width="430" height="200" rx="14" fill="#eef4fa" stroke="#316b88" stroke-width="3"/>
+  <text x="711" y="476" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#244e64">BEFORE CUTTING ROOF VENTS</text>
+  <text x="524" y="510" font-family="Arial, sans-serif" font-size="15" fill="#303740">1. Identify eave, rake, wall, and ridge openings.</text>
+  <text x="524" y="538" font-family="Arial, sans-serif" font-size="15" fill="#303740">2. Confirm each opening connects to rafter bays.</text>
+  <text x="524" y="566" font-family="Arial, sans-serif" font-size="15" fill="#303740">3. Check blocking, leaks, screens, and clear paths.</text>
+  <text x="524" y="594" font-family="Arial, sans-serif" font-size="15" fill="#303740">4. Size by listed net free area, not grille size.</text>
+  <text x="711" y="622" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#244e64">A hole in the wrong plane ventilates no bay.</text>
+
+  <text x="480" y="670" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#505963">Log outdoor shade temperature with indoor air and roof-deck surface temperature; otherwise improvement cannot be compared.</text>
+</svg>
