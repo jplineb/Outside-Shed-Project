@@ -2,6 +2,11 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-24 (evidence-graded engineering review)
+- Added [ENGINEERING-REVIEW.md](ENGINEERING-REVIEW.md), a separate review of the project record and existing second opinion. It treats the clipped blue line as a cable/tube until traced, but rejects unsupported certainty about the primary moisture source, vent locations, ridge vent, framing capacity, and a universal 800-2,000 CFM fan requirement.
+- Revised decision logic: stop the confirmed downspout discharge, observe rain and moisture around the full perimeter, expose the wall-base geometry, repair decay/anchors if present, and only then design screen/flashing. Start room exhaust around 500-800 delivered CFM with makeup air and measurements; verify the roof air path before cutting vents or hiding the deck with foil.
+- Added alternative-name diagrams (SVG source plus 1920 px PNG): [independent-sill-decision.png](diagrams/independent-sill-decision.png) and [independent-airflow-plan.png](diagrams/independent-airflow-plan.png).
+
 ## 2026-09-21 (nest gone)
 - Yellow jacket nest under the gutters is **gone**. Phase 0 treatment is done; eave/roof work is allowed. Leftover: scrape remnants and reseat gutter guards. Next real job is Phase 1 junk-out / wet-clean.
 

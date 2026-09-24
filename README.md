@@ -18,6 +18,7 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 ├── README.md      ← you are here (map + current snapshot)
 ├── TODO.md        ← checkboxes; this is how we track progress
 ├── SECOND-OPINION.md ← independent review: what a second look would do differently
+├── ENGINEERING-REVIEW.md ← evidence-graded review of unresolved claims
 ├── NOTES.md       ← dated discussion / decision log (newest first)
 ├── index.html     ← progress site (GitHub Pages)
 ├── site.css
@@ -39,7 +40,9 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
     ├── floor-plan.svg
     ├── alt-water-first.png / .svg      ← second opinion: splash, not the gap
     ├── alt-two-air-loops.png / .svg    ← second opinion: roof cavity vs room air
-    └── alt-barrier-plane.png / .svg    ← second opinion: foil on rafters vs collar ties
+    ├── alt-barrier-plane.png / .svg    ← second opinion: foil on rafters vs collar ties
+    ├── independent-sill-decision.png / .svg ← measured sill-detail decision
+    └── independent-airflow-plan.png / .svg  ← verified vs unverified air paths
 ```
 
 **How to track progress**
@@ -61,6 +64,7 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 
 - **Next action:** scrape nest remnants and reseat gutter guards, then Phase 1 junk-out / wet-clean. Nest under the gutters is **gone** (2026-09-21). Cleanup shopping list is in [TODO.md](TODO.md).
 - **Second opinion on file:** [SECOND-OPINION.md](SECOND-OPINION.md) re-reads the same photos and argues for water-at-the-ground first, a bigger fan, foil earlier, and four locked decisions worth re-checking. Nothing locked was changed.
+- **Evidence-graded review:** [ENGINEERING-REVIEW.md](ENGINEERING-REVIEW.md) separates photo evidence from assumptions, corrects overconfident structural/vent/water claims, and gives a measurement-led sequence.
 - **Use:** bikes + house projects; cordless tools only. High-voltage work stays in the primary garage.
 - **Comfort:** must be workable. Currently ~**105°F** midday. Path = interior radiant barrier + exhaust fan + lighter paint. No AC. Very humid SC summers — swamp cooler won't work.
 - **Power:** none on site. Modest solar later (lights, charging, fan). Cleanup sessions: battery lights/fan or a GFCI outdoor cord — not AC on a long run.

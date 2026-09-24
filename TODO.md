@@ -1,5 +1,8 @@
 # Todo
 
+## Project documentation
+- [x] Add an evidence-graded independent review and alternative PNG diagrams: [ENGINEERING-REVIEW.md](ENGINEERING-REVIEW.md), [sill decision](diagrams/independent-sill-decision.png), and [airflow plan](diagrams/independent-airflow-plan.png)
+
 ## Phase 0 — Safety (do this first)
 - [x] Yellow jacket nest under the gutters is **gone** (2026-09-21)
 - [ ] Scrape nest remnants and reseat gutter guards (eave work is now allowed)
