@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 660" role="img" aria-label="Alternate view: two places to put the radiant barrier plane, and what each one costs you">
+  <rect width="960" height="660" fill="#f7f5f0"/>
+  <text x="480" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1f1f1f">Second opinion: two places the foil can go</text>
+  <text x="480" y="56" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#555">Both work. They are not interchangeable, because the foil plane decides where the exhaust fan has to be.</text>
+
+  <!-- ============ A: follow the rafters ============ -->
+  <rect x="26" y="76" width="444" height="416" rx="10" fill="#fff" stroke="#2f6b3a" stroke-width="2"/>
+  <rect x="26" y="76" width="444" height="32" rx="10" fill="#2f6b3a"/>
+  <rect x="26" y="94" width="444" height="14" fill="#2f6b3a"/>
+  <text x="248" y="98" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#fff">A - follow the rafters (your locked plan)</text>
+
+  <polygon points="248,142 70,238 70,248 248,152" fill="#3d3d42"/>
+  <polygon points="248,142 426,238 426,248 248,152" fill="#3d3d42"/>
+  <polygon points="248,154 78,246 78,254 248,162" fill="#c4a574" stroke="#8a6a3b"/>
+  <polygon points="248,154 418,246 418,254 248,162" fill="#c4a574" stroke="#8a6a3b"/>
+
+  <line x1="130" y1="212" x2="366" y2="212" stroke="#c9a06a" stroke-width="7"/>
+  <text x="120" y="208" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" fill="#6b4a22">collar tie</text>
+
+  <line x1="245" y1="180" x2="88" y2="266" stroke="#8fa3b0" stroke-width="5" stroke-dasharray="11 5"/>
+  <line x1="251" y1="180" x2="408" y2="266" stroke="#8fa3b0" stroke-width="5" stroke-dasharray="11 5"/>
+  <text x="322" y="236" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#41627a" transform="rotate(28.7 322 236)">foil</text>
+
+  <line x1="80" y1="252" x2="80" y2="340" stroke="#8a6a3b" stroke-width="8"/>
+  <line x1="416" y1="252" x2="416" y2="340" stroke="#8a6a3b" stroke-width="8"/>
+  <line x1="70" y1="344" x2="426" y2="344" stroke="#8f8b82" stroke-width="8"/>
+
+  <!-- warm air can still rise -->
+  <path d="M248 332 C 243 306 246 278 248 246" fill="none" stroke="#d35400" stroke-width="2.5"/>
+  <polygon points="248,238 242,252 254,252" fill="#d35400"/>
+
+  <!-- fan anywhere -->
+  <circle cx="155" cy="300" r="15" fill="#fff" stroke="#333" stroke-width="3"/>
+  <path d="M155 287 A 13 13 0 0 1 167 307" fill="none" stroke="#333" stroke-width="3"/>
+  <path d="M155 313 A 13 13 0 0 1 143 293" fill="none" stroke="#333" stroke-width="3"/>
+  <text x="155" y="274" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#333">fan anywhere high</text>
+
+  <text x="248" y="370" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#2f6b3a">one connected volume - warm air still reaches the ridge</text>
+
+  <text x="46" y="390" font-family="system-ui, sans-serif" font-size="12" fill="#1f1f1f"><tspan font-weight="700">Foil needed:</tspan> about 210 sq ft of slope, plus gable triangles.</text>
+  <text x="46" y="410" font-family="system-ui, sans-serif" font-size="12" fill="#1f1f1f"><tspan font-weight="700">Buy:</tspan> one 4 ft x 62 ft roll, 250 sq ft. Not the 500 sq ft roll.</text>
+  <text x="46" y="430" font-family="system-ui, sans-serif" font-size="12" fill="#1f1f1f"><tspan font-weight="700">Effort:</tspan> all overhead, on the slope, cut around every collar tie.</text>
+  <text x="46" y="450" font-family="system-ui, sans-serif" font-size="12" fill="#2f6b3a"><tspan font-weight="700">Keeps:</tspan> full headroom, and the ties stay usable for storage.</text>
+  <text x="46" y="470" font-family="system-ui, sans-serif" font-size="12" fill="#2f6b3a"><tspan font-weight="700">Fan:</tspan> any high spot works. Nothing to coordinate.</text>
+
+  <!-- ============ B: flat at the collar ties ============ -->
+  <rect x="490" y="76" width="444" height="416" rx="10" fill="#fff" stroke="#1d4e89" stroke-width="2"/>
+  <rect x="490" y="76" width="444" height="32" rx="10" fill="#1d4e89"/>
+  <rect x="490" y="94" width="444" height="14" fill="#1d4e89"/>
+  <text x="712" y="98" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#fff">B - flat plane on the collar ties</text>
+
+  <polygon points="712,142 534,238 534,248 712,152" fill="#3d3d42"/>
+  <polygon points="712,142 890,238 890,248 712,152" fill="#3d3d42"/>
+  <polygon points="712,154 542,246 542,254 712,162" fill="#c4a574" stroke="#8a6a3b"/>
+  <polygon points="712,154 882,246 882,254 712,162" fill="#c4a574" stroke="#8a6a3b"/>
+
+  <line x1="544" y1="212" x2="880" y2="212" stroke="#8fa3b0" stroke-width="5" stroke-dasharray="11 5"/>
+  <line x1="544" y1="252" x2="544" y2="340" stroke="#8a6a3b" stroke-width="8"/>
+  <line x1="880" y1="252" x2="880" y2="340" stroke="#8a6a3b" stroke-width="8"/>
+  <line x1="534" y1="344" x2="890" y2="344" stroke="#8f8b82" stroke-width="8"/>
+
+  <text x="712" y="204" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#41627a">hot attic above the foil</text>
+  <text x="712" y="128" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#41627a">ridge + rake vents already serve that attic</text>
+
+  <circle cx="838" cy="300" r="15" fill="#fff" stroke="#2f6b3a" stroke-width="3"/>
+  <path d="M838 287 A 13 13 0 0 1 850 307" fill="none" stroke="#2f6b3a" stroke-width="3"/>
+  <path d="M838 313 A 13 13 0 0 1 826 293" fill="none" stroke="#2f6b3a" stroke-width="3"/>
+  <text x="838" y="274" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#2f6b3a">fan here</text>
+
+  <text x="690" y="370" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#1d4e89">smaller room, capped ceiling - about 12 percent less air</text>
+
+  <text x="510" y="390" font-family="system-ui, sans-serif" font-size="12" fill="#1f1f1f"><tspan font-weight="700">Foil needed:</tspan> about 192 sq ft, flat. Same roll.</text>
+  <text x="510" y="410" font-family="system-ui, sans-serif" font-size="12" fill="#1f1f1f"><tspan font-weight="700">Effort:</tspan> far easier. One flat plane, long straight runs.</text>
+  <text x="510" y="430" font-family="system-ui, sans-serif" font-size="12" fill="#a33"><tspan font-weight="700">Costs:</tspan> the collar ties stop being storage, and you lose</text>
+  <text x="510" y="448" font-family="system-ui, sans-serif" font-size="12" fill="#a33">the open-rafter look and any reach above the ties.</text>
+  <text x="510" y="470" font-family="system-ui, sans-serif" font-size="12" fill="#1d4e89"><tspan font-weight="700">Fan:</tspan> must be below the foil or it ventilates nothing.</text>
+
+  <!-- ============ shared rules ============ -->
+  <rect x="26" y="508" width="908" height="136" rx="10" fill="#fff" stroke="#c9c2b4" stroke-width="2"/>
+  <text x="480" y="534" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#1f1f1f">True either way</text>
+  <text x="52" y="562" font-family="system-ui, sans-serif" font-size="13" fill="#1f1f1f">Perforated foil, never touching the deck, shiny side facing the air gap. Staple it up with a hammer tacker, not a squeeze gun.</text>
+  <text x="52" y="584" font-family="system-ui, sans-serif" font-size="13" fill="#1f1f1f">The point is not the thermometer. A 145 deg F deck 7 ft over your head radiates at you like a low broiler; foil at 105 deg F</text>
+  <text x="52" y="604" font-family="system-ui, sans-serif" font-size="13" fill="#1f1f1f">does not. The air may only drop 5-10 deg F while the shed feels dramatically better, so judge the job with a 20 dollar</text>
+  <text x="52" y="624" font-family="system-ui, sans-serif" font-size="13" fill="#1f1f1f">infrared thermometer aimed at the deck, not with air temperature alone.</text>
+</svg>
