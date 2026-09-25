@@ -3,6 +3,8 @@
 A fresh read of this project by a different model. Most of the work so far was shaped with Grok, so the useful
 thing I can add is not agreement — it is the places where the same photos and measurements point somewhere else.
 
+**Owner correction (2026-09-25):** the blue line on the roof deck is **not a cable**. It is the joint where wood roof parts meet the metal next to them. JPEG compression makes that seam look like a jacketed cable with staples. Section 2 and contradiction #1 below are **rejected**. Do not add a voltage-tester task.
+
 What I did: read every photo in [`photos/`](photos/) at full resolution (including zooming into the sill, the
 rafter run, the eave, the door, and the block line), then read [`TODO.md`](TODO.md), [`NOTES.md`](NOTES.md), and
 [`.cursorrules`](.cursorrules) end to end.
@@ -94,6 +96,8 @@ hardware cloth roll yet: the fix depends entirely on the gap width, which is sti
 cannot stuff anything into it and the money belongs in the gravel instead.
 
 ## 2. The blue line on the roof deck is a stapled cable
+
+**Rejected 2026-09-25.** Owner: the blue line separates wooden roof components from the metal next to them. Not a cable. The "jacket + cable staples" read is an image-compression artifact. Leave this section as historical only.
 
 The locked decision says the blue mark in [`photos/interior-roof.jpg`](photos/interior-roof.jpg) is a layout or chalk
 line. Zoomed to full resolution, there is a small galvanized nail-through strap sitting over a round blue jacketed line,
@@ -313,9 +317,7 @@ which is why I would do it before any of the slower cosmetic work.
 
 I left all four alone in `.cursorrules`, `NOTES.md`, and the site. Your call.
 
-1. **"Blue mark on the OSB is a layout / chalk line, not a cable."** I think it is a cable held by metal cable staples.
-   Evidence is in the zoomed photo: a nail-through strap over a round jacketed line, repeated along the run. Cheap to
-   settle with a tester.
+1. **"Blue mark on the OSB is a layout / chalk line, not a cable."** **Rejected 2026-09-25.** Owner: wood-to-metal roof joint, not a cable. Compression fake-out.
 2. **"Back eave has two soffit vents … roof-cavity intake to the ridge."** I read them as rake soffit vents in the gable
    overhang, which short-circuit to the ridge and do not feed the rafter bays. **Resolved 2026-09-25:** the look-up shows a flat eave soffit. The locked note was the right call. Front eave intake is still missing.
 3. **Sill seal = "hardware cloth in the gap + Z-flashing or a PT/PVC skirt."** I would screen and leave it vented, and

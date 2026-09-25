@@ -8,7 +8,6 @@
 - [x] Measure foundation + door + window + wall/stud/sill/block (16 × 12 ft; see [NOTES.md](NOTES.md) and [diagrams/floor-plan.png](diagrams/floor-plan.png))
 - [ ] Measure roof face for solar (one eave-to-ridge rafter length, or pitch + ridge height). No ladder needed: hold a phone level app flat on the underside of a rafter, pitch = 12 x tan(angle)
 - [ ] Measure the exterior wall-to-block gap width (the hole the cloth has to fill) — **before** buying the cloth roll
-- [ ] Trace the blue stapled line on the roof deck with a non-contact voltage tester before any foil goes up (see [SECOND-OPINION.md](SECOND-OPINION.md))
 - [x] Pull the big flat panel leaning against the front wall (clear in [photos/2026-09-25-exterior-front.jpg](photos/2026-09-25-exterior-front.jpg); both jalousies are visible)
 - [ ] Shovel the dirt berm out of the inside wall-to-slab corner. It holds water against the plate for days and it is free to fix
 - [ ] Get rid of more junk (mower / chairs / wheelbarrow / leftover yard stuff — bike can stay)
@@ -128,7 +127,6 @@ Do this **after** Phase 1 cleanup + the screwdriver test. If bottoms are punky, 
 - [ ] Modest solar: lights + cordless-tool charging + fan (small inverter is enough; no compressor / table-saw loads)
 
 ## Open questions
-- Is the blue stapled line on the roof deck live, and where does it go? (It is held by metal cable staples, so it is hardware, not chalk.)
 - Is the crumbly layer under the dirt on the plate soft wood, or only the dirt itself? The 2026-09-25 corners read as soil on the slab. Probe after it dries, and thumb-test the door-jamb anchor bolt first.
 - Roof face / pitch / ridge height (for foil quantity and solar).
 - How wide is the exterior wall-to-block gap?
