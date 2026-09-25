@@ -30,6 +30,7 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 │   ├── interior-roof.jpg
 │   ├── interior-rafters.jpg
 │   ├── interior-sill.jpg
+│   ├── 2026-09-25-interior-after-clean.jpg
 │   ├── 2026-09-25-exterior-front.jpg
 │   ├── 2026-09-25-back-soffit-vent.jpg
 │   ├── 2026-09-25-exterior-back.jpg
@@ -64,7 +65,7 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 
 ## Current snapshot
 
-- **Next action:** scrape nest remnants and reseat gutter guards, then Phase 1 junk-out / wet-clean. Nest under the gutters is **gone** (2026-09-21). Cleanup shopping list is in [TODO.md](TODO.md).
+- **Next action:** walk the mower and leftover yard stuff out, then probe the sill / shovel any remaining berm. Nest is gone. Interior floor + walls in one corner are cleaned (2026-09-25). Shopping list is in [TODO.md](TODO.md).
 - **Second opinion on file:** [SECOND-OPINION.md](SECOND-OPINION.md) re-reads the same photos and argues for water-at-the-ground first, a bigger fan, foil earlier, and four locked decisions worth re-checking. Nothing locked was changed.
 - **Use:** bikes + house projects; cordless tools only. High-voltage work stays in the primary garage.
 - **Comfort:** must be workable. Currently ~**105°F** midday. Path = interior radiant barrier + exhaust fan + lighter paint. No AC. Very humid SC summers — swamp cooler won't work.
@@ -79,4 +80,4 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 - Approach: DIY as much as possible
 - Exterior: faded tan T1-11 siding, white trim, dark shingle gable roof, white gutters, **two** 18×22 jalousies flanking a centered double door, small ridge vent, **two soffit vents on the back eave and none on the front gutter/eave**
 - Size: **16 ft eave × 12 ft gable**, ~192 sq ft. 2×4 walls, 2×6 sill, ~8.5" block.
-- Photos: [photos/exterior.jpg](photos/exterior.jpg), [photos/exterior-back.jpg](photos/exterior-back.jpg), [photos/interior.jpg](photos/interior.jpg), [photos/interior-roof.jpg](photos/interior-roof.jpg), [photos/interior-rafters.jpg](photos/interior-rafters.jpg), [photos/interior-sill.jpg](photos/interior-sill.jpg). Newer set (2026-09-25): [front](photos/2026-09-25-exterior-front.jpg), [soffit look-up](photos/2026-09-25-back-soffit-vent.jpg), [back](photos/2026-09-25-exterior-back.jpg), [sill corner](photos/2026-09-25-interior-sill-corner.jpg), [door-jamb sill](photos/2026-09-25-interior-sill-door.jpg).
+- Photos: [photos/exterior.jpg](photos/exterior.jpg), [photos/exterior-back.jpg](photos/exterior-back.jpg), [photos/interior.jpg](photos/interior.jpg), [photos/2026-09-25-interior-after-clean.jpg](photos/2026-09-25-interior-after-clean.jpg), [photos/interior-roof.jpg](photos/interior-roof.jpg), [photos/interior-rafters.jpg](photos/interior-rafters.jpg), [photos/interior-sill.jpg](photos/interior-sill.jpg). Newer set (2026-09-25): [front](photos/2026-09-25-exterior-front.jpg), [soffit look-up](photos/2026-09-25-back-soffit-vent.jpg), [back](photos/2026-09-25-exterior-back.jpg), [sill corner](photos/2026-09-25-interior-sill-corner.jpg), [door-jamb sill](photos/2026-09-25-interior-sill-door.jpg).

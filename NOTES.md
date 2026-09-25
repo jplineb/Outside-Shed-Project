@@ -2,6 +2,13 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-25 (cleaning update)
+- New shot: [photos/2026-09-25-interior-after-clean.jpg](photos/2026-09-25-interior-after-clean.jpg). This corner is a real step up from [photos/interior.jpg](photos/interior.jpg): slab looks swept/mopped, plywood walls look wiped, tools hung, no pile of yard junk in the frame.
+- **Still in there:** red mower, white bike (bike can stay), white cabinet, hanging long-handles. Junk-out is not done.
+- Collar ties in this view are clear (no lumber/corrugated sitting on them). Other bays still unknown.
+- White mid-span post is painted — useful later if we hang a work light or fan. Floor-to-wall corner in this bay looks clean (no dirt berm in the photo).
+- Not checked from this photo: sill probe, droppings/wet-clean of every bay, rafter-bay vac, gas cans, the other three corners.
+
 ## 2026-09-25 (front, back, soffit look-up, sill corners)
 - Five new shots: [front](photos/2026-09-25-exterior-front.jpg) (door wall, both leaves open), [soffit look-up](photos/2026-09-25-back-soffit-vent.jpg), [back wall](photos/2026-09-25-exterior-back.jpg), [sill corner](photos/2026-09-25-interior-sill-corner.jpg), [door-jamb sill](photos/2026-09-25-interior-sill-door.jpg).
 - **Back vents are in the flat eave soffit.** The look-up has no gutter, so it is the back eave. A two-bank louver sits in horizontal plywood soffit, with vertical T1-11 under it. That path feeds the back rafter bays up to the ridge. The earlier rake short-circuit read was the wide shot at the corner. Diagram updated: [diagrams/alt-two-air-loops.png](diagrams/alt-two-air-loops.png). Soffit plywood around the vent is water-stained. Leave the louvers open.

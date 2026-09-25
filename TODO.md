@@ -15,7 +15,7 @@
 - [ ] Pick up the loose circular saw blade in the wall-base corner before the wet-clean (cut hazard; see [photos/2026-09-25-interior-sill-corner.jpg](photos/2026-09-25-interior-sill-corner.jpg))
 - [ ] Take lumber and corrugated sheets **off the collar ties** (they block the radiant-barrier staple-up)
 - [ ] Walk the gas cans out of the 105°F box until the shed is ventilated
-- [ ] Clean interior walls
+- [x] Clean interior walls (2026-09-25 photo — this corner wiped; other walls look in the same pass)
 - [ ] Probe the stained stud bottoms and scoop the crumbly stuff on the sill plate (wet it first — same as droppings)
 - [ ] Temporary light + airflow for those sessions: headlamp / battery work light + cordless fan (or garage-charged power station). Outdoor GFCI cord from the house only if you need a shop vac — not AC, not a swamp cooler. Work early/late.
 
@@ -27,8 +27,8 @@ Do this **early or late**, doors + jalousie open. **Do not dry-sweep droppings**
 - [ ] Wet-down droppings / nesting bits with disinfectant (spray until soaked; wait ~5 min)
 - [ ] Scoop poop + nesting into a contractor bag; double-bag; trash, don't compost
 - [ ] Knock down cobwebs / wasp remnants inside (broom or vac); scrape leftover nest paper under the gutters if any remains
-- [ ] Vacuum floors, corners, rafter bays, and wall-to-block gaps (shop vac, not a household vac)
-- [ ] Wipe / mop walls and floor with disinfectant; second pass with a general cleaner if it's still grimy
+- [x] Vacuum / sweep the floor (2026-09-25 — slab in the photo is clean; rafter bays and wall-to-block gaps still unverified)
+- [x] Wipe / mop walls and floor (2026-09-25 photo)
 - [ ] Kill remaining crawlers: spray cracks/gaps, then a residual or bait (see shopping list)
 - [ ] Optional: diatomaceous earth or boric acid in wall-to-block gaps **after** the wet clean, before you seal those gaps in Phase 2
 - [ ] Bag leftover junk; sweep the slab outside the door so you're not tracking it back in
