@@ -2,6 +2,13 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-25 (cleaning update)
+- New shot: [photos/2026-09-25-interior-after-clean.jpg](photos/2026-09-25-interior-after-clean.jpg). This corner is a real step up from [photos/interior.jpg](photos/interior.jpg): slab looks swept/mopped, plywood walls look wiped, tools hung, no pile of yard junk in the frame.
+- **Still in there:** red mower, white bike (bike can stay), white cabinet, hanging long-handles. Junk-out is not done.
+- Collar ties in this view are clear (no lumber/corrugated sitting on them). Other bays still unknown.
+- White mid-span post is painted — useful later if we hang a work light or fan. Floor-to-wall corner in this bay looks clean (no dirt berm in the photo).
+- Not checked from this photo: sill probe, droppings/wet-clean of every bay, rafter-bay vac, gas cans, the other three corners.
+
 ## 2026-09-21 (nest gone)
 - Yellow jacket nest under the gutters is **gone**. Phase 0 treatment is done; eave/roof work is allowed. Leftover: scrape remnants and reseat gutter guards. Next real job is Phase 1 junk-out / wet-clean.
 
