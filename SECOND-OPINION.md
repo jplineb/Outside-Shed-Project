@@ -30,9 +30,7 @@ My diagrams are new files with new names, so nothing existing was overwritten:
 4. **The blue line on the roof deck is held by metal cable staples.** Zoomed in, there is a nail-through strap over
    a round blue jacketed line, repeated along the run. Chalk lines do not come with hardware. Trace it before you
    staple foil across those rafters.
-5. **The back vents are in the sloped rake soffit of the gable overhang, not in an eave soffit.** They open a couple
-   of feet from the ridge, so their air short-circuits straight back out the ridge vent. Neither 16 ft eave has any
-   intake at all.
+5. **Checked 2026-09-25: the back vents are in the flat eave soffit.** The look-up under the unguttered eave shows the louver in horizontal soffit, so those vents feed the back rafter bays. The rake short-circuit read further down was the wide shot, and it is withdrawn. The front (gutter) eave still has no soffit intake.
 6. **Fan size is the heat lever, not the foil.** A 100 CFM vent fan in 1,400 cu ft is 4 air changes an hour and you
    will not feel it. You want 800 CFM minimum, ideally 1,500–2,000.
 7. **The comfort target as written is not reachable.** Without AC or evaporation you cannot beat outdoor shade
@@ -115,6 +113,8 @@ The yellow cord hanging from a joist in [`photos/interior.jpg`](photos/interior.
 look like a leftover extension cord.
 
 ## 3. Those back vents are in the wrong plane to do what the notes assume
+
+**Update 2026-09-25.** The look-up in [`photos/2026-09-25-back-soffit-vent.jpg`](photos/2026-09-25-back-soffit-vent.jpg) answers the check at the end of this section. The louver is in the **flat eave soffit** of the unguttered back eave, with vertical T1-11 under it and no gutter in the frame. It feeds the back rafter bays. The paragraphs below are the earlier read of [`photos/exterior-back.jpg`](photos/exterior-back.jpg), kept so the misread stays visible. The front eave still has no intake, so the front-soffit-vent job stays. The diagram is updated to match the look-up.
 
 See [`diagrams/alt-two-air-loops.png`](diagrams/alt-two-air-loops.png).
 
@@ -284,7 +284,7 @@ moot. Three things from it still apply to the leftover scrape and to next summer
 | Is the blue line live | $15 non-contact voltage tester, then trace both ends | Do before stapling foil |
 | Plate at the anchor bolts | Thumb pressure and a screwdriver at each bolt, not just between them | The actual structural question |
 | Header sag over the door | 4 ft level or a string across the top plate | Explains door binding, if any |
-| Vent location, back gable | Look up from the ground: sloped rake soffit or flat eave soffit? | Decides whether the front eave needs intake vents |
+| Vent location, back eave | **Answered 2026-09-25.** Flat eave soffit. See [`photos/2026-09-25-back-soffit-vent.jpg`](photos/2026-09-25-back-soffit-vent.jpg). | Front eave still needs intake. The back bays already have it. |
 | Probe the stud bottoms | Screwdriver, **after several dry weeks** | Wet wood reads soft. Probing now over-diagnoses. |
 
 ## Money, roughly
@@ -317,7 +317,7 @@ I left all four alone in `.cursorrules`, `NOTES.md`, and the site. Your call.
    Evidence is in the zoomed photo: a nail-through strap over a round jacketed line, repeated along the run. Cheap to
    settle with a tester.
 2. **"Back eave has two soffit vents … roof-cavity intake to the ridge."** I read them as rake soffit vents in the gable
-   overhang, which short-circuit to the ridge and do not feed the rafter bays. Confirmable by standing under them.
+   overhang, which short-circuit to the ridge and do not feed the rafter bays. **Resolved 2026-09-25:** the look-up shows a flat eave soffit. The locked note was the right call. Front eave intake is still missing.
 3. **Sill seal = "hardware cloth in the gap + Z-flashing or a PT/PVC skirt."** I would screen and leave it vented, and
    skip the skirt. The wall is open on the inside and can dry inward; the skirt mostly adds a debris trap and a void.
 4. **"Prefer a lighter color … helps the 105 °F problem"** and **the phase order that puts heat after the envelope.**
@@ -329,7 +329,7 @@ I left all four alone in `.cursorrules`, `NOTES.md`, and the site. Your call.
 | Diagram | What it argues |
 |---|---|
 | [`alt-water-first.png`](diagrams/alt-water-first.png) | Section through an un-guttered eave wall: splash, the raw siding edge, the interior berm, the anchor-bolt check, and the four things to do first |
-| [`alt-two-air-loops.png`](diagrams/alt-two-air-loops.png) | The roof-cavity loop versus the room loop, the rake-vent short circuit, and fan sizing against intake free area |
+| [`alt-two-air-loops.png`](diagrams/alt-two-air-loops.png) | The roof-cavity loop versus the room loop. Updated 2026-09-25: back soffit vents feed the back bays; the front eave still has no intake. Fan sizing is unchanged. |
 | [`alt-barrier-plane.png`](diagrams/alt-barrier-plane.png) | Foil on the rafters versus flat on the collar ties, and how that choice constrains where the fan can go |
 
 SVG sources sit next to each PNG in [`diagrams/`](diagrams/).

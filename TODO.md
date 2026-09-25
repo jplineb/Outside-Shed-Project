@@ -9,9 +9,10 @@
 - [ ] Measure roof face for solar (one eave-to-ridge rafter length, or pitch + ridge height). No ladder needed: hold a phone level app flat on the underside of a rafter, pitch = 12 x tan(angle)
 - [ ] Measure the exterior wall-to-block gap width (the hole the cloth has to fill) — **before** buying the cloth roll
 - [ ] Trace the blue stapled line on the roof deck with a non-contact voltage tester before any foil goes up (see [SECOND-OPINION.md](SECOND-OPINION.md))
-- [ ] Pull the big flat panel leaning against the front wall — it traps water on the siding and it is what hides the left jalousie in [photos/exterior.jpg](photos/exterior.jpg)
+- [x] Pull the big flat panel leaning against the front wall (clear in [photos/2026-09-25-exterior-front.jpg](photos/2026-09-25-exterior-front.jpg); both jalousies are visible)
 - [ ] Shovel the dirt berm out of the inside wall-to-slab corner. It holds water against the plate for days and it is free to fix
 - [ ] Get rid of more junk (mower / chairs / wheelbarrow / leftover yard stuff — bike can stay)
+- [ ] Pick up the loose circular saw blade in the wall-base corner before the wet-clean (cut hazard; see [photos/2026-09-25-interior-sill-corner.jpg](photos/2026-09-25-interior-sill-corner.jpg))
 - [ ] Take lumber and corrugated sheets **off the collar ties** (they block the radiant-barrier staple-up)
 - [ ] Walk the gas cans out of the 105°F box until the shed is ventilated
 - [ ] Clean interior walls
@@ -117,7 +118,7 @@ Do this **after** Phase 1 cleanup + the screwdriver test. If bottoms are punky, 
 - [ ] Install interior radiant barrier: staple to the **underside of the rafters** (not tight to the OSB) so a 1"+ air gap stays against the hot deck; leave the **ridge vent and back soffit vents** unblocked
 - [ ] Seal daylight gaps at corners and roof-to-wall joints (not only the foundation line)
 - [ ] Knock webs off the back soffit vents so they actually pull (don't paint the louvers shut)
-- [ ] Add 3–4 louvered vents in the **front** eave soffit (about 45 sq in of free area). The back louvers are in the sloped rake soffit and short-circuit to the ridge, so no rafter bay currently has intake (see [SECOND-OPINION.md](SECOND-OPINION.md))
+- [ ] Add 3–4 louvered vents in the **front** eave soffit (about 45 sq in of free area). The back vents are in the flat eave soffit and feed the back rafter bays (look-up 2026-09-25). The guttered front eave still has no intake, so the front slope's bays do not.
 - [ ] Add an exhaust fan (**both jalousies** as intake, exhaust high on the opposite side or gable) — soffit vents are for the roof bay, not a substitute for this
 - [ ] Size that fan **800 CFM minimum, 1,500–2,000 ideal** (the room is ~1,400 cu ft). A 100 CFM vent fan is 4 air changes an hour and you will not feel it. Keep the fan on the room side of the foil
 - [ ] Buy a $20 infrared thermometer and log deck vs foil surface temps before and after — the air temp will understate what the foil did
@@ -128,9 +129,8 @@ Do this **after** Phase 1 cleanup + the screwdriver test. If bottoms are punky, 
 
 ## Open questions
 - Is the blue stapled line on the roof deck live, and where does it go? (It is held by metal cable staples, so it is hardware, not chalk.)
-- Are the back louvers in the flat eave soffit or the sloped rake soffit? That decides whether the rafter bays have any intake.
+- Is the crumbly layer under the dirt on the plate soft wood, or only the dirt itself? The 2026-09-25 corners read as soil on the slab. Probe after it dries, and thumb-test the door-jamb anchor bolt first.
 - Roof face / pitch / ridge height (for foil quantity and solar).
 - How wide is the exterior wall-to-block gap?
 - Sill is a **2×6** (5.5 × 1.5). Treated? How soft are the stained bottoms? Run length Y not taped.
-- Is the crumbly material on the sill dirt, punky rot, or insect frass?
 - Does the small ridge vent leak?

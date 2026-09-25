@@ -2,6 +2,16 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-25 (front, back, soffit look-up, sill corners)
+- Five new shots: [front](photos/2026-09-25-exterior-front.jpg) (door wall, both leaves open), [soffit look-up](photos/2026-09-25-back-soffit-vent.jpg), [back wall](photos/2026-09-25-exterior-back.jpg), [sill corner](photos/2026-09-25-interior-sill-corner.jpg), [door-jamb sill](photos/2026-09-25-interior-sill-door.jpg).
+- **Back vents are in the flat eave soffit.** The look-up has no gutter, so it is the back eave. A two-bank louver sits in horizontal plywood soffit, with vertical T1-11 under it. That path feeds the back rafter bays up to the ridge. The earlier rake short-circuit read was the wide shot at the corner. Diagram updated: [diagrams/alt-two-air-loops.png](diagrams/alt-two-air-loops.png). Soffit plywood around the vent is water-stained. Leave the louvers open.
+- **Front slope still has no soffit intake.** The gutter runs the door eave. The downspout still drops at the right-hand corner when you face the door. Adding 3-4 louvered vents in that front soffit is still the intake for the front rafter bays.
+- **The leaning panel is off the front wall.** Both jalousies are clear in the new front shot. Door bottoms are too far away in this frame to judge the rot.
+- **Back wall is a blank 16 ft eave.** No opening, no gutter, grass to the base, siding field looks intact. This is the wall the gravel drip strip is for. A dirt mound in the lawn sits a few feet out from the wall. Cardboard and leaves are in the grass at the near corner.
+- **Sill corners still look salvageable, and the berm is still there.** The 2x6 plate is the wide ledge inside the 2x4s, sitting on the block. Studs are full-section, dark on the bottom few inches. One corner stud has a vertical check at the bottom. Probe that stud, and thumb-test the anchor bolt in the door-jamb corner first. That bolt is buried in dirt. The pile on the plate in these shots reads as dirt on the slab, with a dirt film on the floor. The plate does not show a green treated tint here. Find a stamp or a fresh cut before calling it untreated.
+- Loose circular saw blade in the corner comes out with the junk. It is a cut hazard while you clean.
+- Still need: roof pitch, exterior gap width, how soft the wood is under the dirt, whether the ridge vent leaks.
+
 ## 2026-09-21 (nest gone)
 - Yellow jacket nest under the gutters is **gone**. Phase 0 treatment is done; eave/roof work is allowed. Leftover: scrape remnants and reseat gutter guards. Next real job is Phase 1 junk-out / wet-clean.
 

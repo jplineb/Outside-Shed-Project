@@ -25,6 +25,11 @@ photos/            site photos only
   interior-roof.jpg
   interior-rafters.jpg
   interior-sill.jpg
+  2026-09-25-exterior-front.jpg
+  2026-09-25-back-soffit-vent.jpg
+  2026-09-25-exterior-back.jpg
+  2026-09-25-interior-sill-corner.jpg
+  2026-09-25-interior-sill-door.jpg
 diagrams/          how-to drawings
   radiant-barrier-diagram.png
   radiant-barrier.svg
@@ -78,10 +83,11 @@ Do not reopen locked decisions below unless the user explicitly changes them.
 ## Still unknown
 
 - **Measured:** 16 ft (door/eave) × 12 ft (gable) foundation; 87" top-of-wall to bottom-of-block; **centered** door 48×75.5" (two ~24" leaves) with an **18×22" jalousie on each side**; 2×4 studs 74×1.5×3.5" running to the sheathing; 2×6 sill 5.5×1.5×Y; **double top plate**; block stem ~8.5". See diagrams/floor-plan.svg.
-- Still need: roof face / pitch / ridge height; wall-to-block gap width; whether the 2×6 is treated; how soft the stained bottoms are.
-- Whether the crumbly pile on the sill is dirt, punky rot, or insect frass.
+- Still need: roof face / pitch / ridge height; wall-to-block gap width.
+- Whether the wood under the dirt on the sill is soft. The 2026-09-25 corners read as soil on the slab. Probe after it dries, door-jamb anchor bolt first.
+- Whether the 2×6 is treated. These shots do not show a green tint. Confirm with a stamp or a fresh cut.
 - Whether the small ridge vent leaks.
-- Back eave has two soffit vents; front gutter/eave has none. Still unknown whether the two are enough once the ridge path is cleaned/open.
+- Back eave vents are in the **flat** soffit (look-up 2026-09-25) and feed the back rafter bays. Front gutter/eave has none. Still unknown whether the two back vents are enough for that slope once the ridge path is clear.
 
 ## Photos and junk
 
