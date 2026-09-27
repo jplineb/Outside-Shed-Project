@@ -84,7 +84,7 @@ Only one eave has a gutter, so roughly 100 sq ft of roof free-sheds in a line al
 
 - [ ] Gravel drip strip, 12–18 in wide, along the eaves and gables with no gutter (cannot clog, nothing nests in it, no ladder)
 - [ ] Downspout elbow + 4–6 ft extension on the guttered side
-- [ ] Cut the grass and soil line back off the siding
+- [x] Cut the grass and soil line back off the siding (2026-09-27 — almost every side; one gable is still tight to the turf)
 - [ ] Prime or paint the raw bottom edge of the T1-11 — that exposed end grain wicks splash straight into the wall
 - [ ] Check the sill plate at **each anchor bolt**, not just between them. A washer sinking into soft wood is a lost hold-down, which is structural
 

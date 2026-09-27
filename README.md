@@ -37,7 +37,11 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 │   ├── 2026-09-25-interior-sill-corner.jpg
 │   ├── 2026-09-25-interior-sill-door.jpg
 │   ├── 2026-09-27-interior-workbench.jpg
-│   └── 2026-09-27-interior-room.jpg
+│   ├── 2026-09-27-interior-room.jpg
+│   ├── 2026-09-27-gable-downspout.jpg
+│   ├── 2026-09-27-eave-grass-cut.jpg
+│   ├── 2026-09-27-gable-end.jpg
+│   └── 2026-09-27-door-wall.jpg
 └── diagrams/      ← how-to drawings
     ├── radiant-barrier-diagram.png
     ├── radiant-barrier.svg
@@ -67,7 +71,7 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 
 ## Current snapshot
 
-- **Next action:** walk the gas cans, chairs, ladders, and fire pit out, then probe the sill. The **L-bench and wall cabinets stay**. Nest is gone. Floor still looks swept (2026-09-27). Shopping list is in [TODO.md](TODO.md).
+- **Next action:** gravel drip strip and a downspout extension, then probe the sill after it dries. Grass is cut back from the foundation (2026-09-27). The **L-bench and wall cabinets stay**. Nest is gone.
 - **Second opinion on file:** [SECOND-OPINION.md](SECOND-OPINION.md) re-reads the same photos and argues for water-at-the-ground first, a bigger fan, foil earlier, and four locked decisions worth re-checking. Nothing locked was changed.
 - **Use:** bikes + house projects; cordless tools only. High-voltage work stays in the primary garage.
 - **Comfort:** must be workable. Currently ~**105°F** midday. Path = interior radiant barrier + exhaust fan + lighter paint. No AC. Very humid SC summers — swamp cooler won't work.

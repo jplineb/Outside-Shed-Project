@@ -2,6 +2,13 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-27 (grass cut back from the foundation)
+- Four outside shots: [gable with downspout](photos/2026-09-27-gable-downspout.jpg), [eave with the grass pulled back](photos/2026-09-27-eave-grass-cut.jpg), [other gable](photos/2026-09-27-gable-end.jpg), [door wall](photos/2026-09-27-door-wall.jpg).
+- Grass and soil were holding the bottom of the T1-11 wet. That end grain wicks water up the wall, which matches the dark band on the siding. Cutting it back is the right first move. Checked off.
+- The dark band is already in the wood. Trimming stops the next wetting; it does not erase the stain. Probe the sill after the bottoms have had dry weather.
+- Still wetting the base: the **un-guttered eave** dumps roof water in a line, and the **downspout still lands at the corner**. Bare dirt will splash the end grain until a 12–18 in gravel strip is down. One gable still has turf tight to the block.
+- Siding above that bottom band looks intact. Door leaf in the new front shot is worn at the bottom, same repair plan. Gas cans are sitting outside one gable corner in these shots.
+
 ## 2026-09-27 (workbench and main room)
 - Two new shots: [photos/2026-09-27-interior-workbench.jpg](photos/2026-09-27-interior-workbench.jpg) and [photos/2026-09-27-interior-room.jpg](photos/2026-09-27-interior-room.jpg). Floor across the main room still looks swept.
 - **The L-shaped bench and wall cabinets stay.** That is the house-project workspace. Do not haul them out with the junk. Lower wall behind the bench is already a lighter painted band.
