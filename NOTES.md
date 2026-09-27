@@ -2,6 +2,13 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-09-27 (workbench and main room)
+- Two new shots: [photos/2026-09-27-interior-workbench.jpg](photos/2026-09-27-interior-workbench.jpg) and [photos/2026-09-27-interior-room.jpg](photos/2026-09-27-interior-room.jpg). Floor across the main room still looks swept.
+- **The L-shaped bench and wall cabinets stay.** That is the house-project workspace. Do not haul them out with the junk. Lower wall behind the bench is already a lighter painted band.
+- **Still to walk out:** patio chairs, step ladder, extension ladder, fire pit, rake, and **gas cans** (red on the floor, orange by the ladder, more under the bench). The 105°F box is not clear of fuel yet.
+- Mower and bike are not in these two frames. Collar ties in this bay look clear of the old lumber stack; a yellow cord is still hanging (leftover, not house power). Spare cinder blocks under the bench are storage, not the foundation.
+- Sill probe and the dirt berm are still open. These shots do not show the plate.
+
 ## 2026-09-25 (blue line is not a cable)
 - Owner confirmation for future agents: the blue line on the roof deck in [photos/interior-roof.jpg](photos/interior-roof.jpg) **separates the wooden roof parts from the metal next to them**. It is **not a cable**. JPEG compression makes the seam look like a round blue jacket with repeating "staples" — that is the misread in [SECOND-OPINION.md](SECOND-OPINION.md). Locked. No voltage tester. Do not reopen.
 

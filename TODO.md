@@ -10,10 +10,10 @@
 - [ ] Measure the exterior wall-to-block gap width (the hole the cloth has to fill) — **before** buying the cloth roll
 - [x] Pull the big flat panel leaning against the front wall (clear in [photos/2026-09-25-exterior-front.jpg](photos/2026-09-25-exterior-front.jpg); both jalousies are visible)
 - [ ] Shovel the dirt berm out of the inside wall-to-slab corner. It holds water against the plate for days and it is free to fix
-- [ ] Get rid of more junk (mower / chairs / wheelbarrow / leftover yard stuff — bike can stay)
+- [ ] Get rid of more junk (chairs / ladders / fire pit / rake / leftover yard stuff — **bike, L-bench, and wall cabinets stay**; mower not in the 2026-09-27 frames)
 - [ ] Pick up the loose circular saw blade in the wall-base corner before the wet-clean (cut hazard; see [photos/2026-09-25-interior-sill-corner.jpg](photos/2026-09-25-interior-sill-corner.jpg))
 - [ ] Take lumber and corrugated sheets **off the collar ties** (they block the radiant-barrier staple-up)
-- [ ] Walk the gas cans out of the 105°F box until the shed is ventilated
+- [ ] Walk the gas cans out of the 105°F box until the shed is ventilated (still in there 2026-09-27: red on the floor, orange by the ladder, more under the bench)
 - [x] Clean interior walls (2026-09-25 photo — this corner wiped; other walls look in the same pass)
 - [ ] Probe the stained stud bottoms and scoop the crumbly stuff on the sill plate (wet it first — same as droppings)
 - [ ] Temporary light + airflow for those sessions: headlamp / battery work light + cordless fan (or garage-charged power station). Outdoor GFCI cord from the house only if you need a shop vac — not AC, not a swamp cooler. Work early/late.
