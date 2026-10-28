@@ -73,7 +73,7 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 
 ## Current snapshot
 
-- **Next action:** the 2026-10-28 storm soaked the sill on one full side wall and the house-end half of the back eave. Dry that L (doors and jalousies open on dry days, berm off the plate). Gravel those two walls before the next rain. Do not probe wet wood. Downspout extension is still owed. The **L-bench and wall cabinets stay**. Nest is gone.
+- **Next action:** the 2026-10-28 storm soaked the sill on one full side wall and the house-end half of the back eave. Dry that L (doors and jalousies open on dry days, berm off the plate). Before the next rain, either a crushed-stone strip on those two walls or a gutter on the back eave (the gable still needs stone or the later skirt). Do not probe wet wood. Downspout extension is still owed. The **L-bench and wall cabinets stay**. Nest is gone.
 - **Second opinion on file:** [SECOND-OPINION.md](SECOND-OPINION.md) re-reads the same photos and argues for water-at-the-ground first, a bigger fan, foil earlier, and four locked decisions worth re-checking. Nothing locked was changed.
 - **Use:** bikes + house projects; cordless tools only. High-voltage work stays in the primary garage.
 - **Comfort:** must be workable. Currently ~**105°F** midday. Path = interior radiant barrier + exhaust fan + lighter paint. No AC. Very humid SC summers — swamp cooler won't work.

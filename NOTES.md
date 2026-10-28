@@ -2,6 +2,17 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-10-28 (options besides a gravel strip)
+- Owner asked what else works besides the gravel drip strip. Nothing locked. Gravel stays the default until they pick.
+- **A gutter on the back eave is the real substitute.** It catches the sheet before it hits the ground. About 16 ft of vinyl to match the door-wall gutter, sloped about 1/2 in over that run, one outlet at the drier far end (away from the house corner that just soaked), then the same elbow + 4–6 ft extension already owed on the front. Ladder, hangers into the fascia, and a rinse when the trees drop leaves. Leave it open. The yellow jackets nested up under the front gutter guards, so a guard on this new run is a cavity waiting for the next nest.
+- A gutter does not cover the soaked gable. Rakes do not collect the roof. That 12 ft side still needs a splash break at the ground, or the skirt after the plate dries.
+- **Crushed stone is the gravel plan, named properly.** #57 (about 3/4 in), 12–18 in wide, 3 in deep, landscape fabric under it so the dirt does not swallow it. The dead-grass strip in the 2026-10-28 back photo is the landing zone. Voids kill the splash. Round river rock looks cleaner and bounces more. Pea gravel works and wanders.
+- **A concrete strip or pavers are a hard landing.** The same drip that gravel swallows will bounce back up the T1-11. Easier to mow against, worse for this wall.
+- **Mulch and pine straw hold water against the block.** They also make a nest and a termite path. Leave them out.
+- **Regrade only if water stands.** Slope soil away from the block so the 63 gallons leave. The storm photos show splash up the siding, not a pond. A swale does not stop that impact. A buried French drain is a gravel trench with extra digging, and the failure here is the surface hit.
+- **A rot-proof skirt is the wall armor, and it is already in the seal plan.** Z-flashing or a PVC/PT skirt lapped behind the siding and down past the block face, after this plate has dried. Prime the raw T1-11 edge once it is dry to the touch. The skirt keeps splash off the end grain. It does not take 63 gallons a storm by itself. Pair it with the gutter or the stone.
+- Free and still first: berm off the soaked L, doors and jalousies open on dry days, loose block off the splash line.
+
 ## 2026-10-28 (storm soaked the sill)
 - Owner: the last storm soaked the sill plate on **one full side wall** and **half the back wall**.
 - Two outside shots: [side gable](photos/2026-10-28-side-gable-after-storm.jpg), [back eave](photos/2026-10-28-back-eave-after-storm.jpg).
