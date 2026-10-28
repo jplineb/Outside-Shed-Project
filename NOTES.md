@@ -2,6 +2,18 @@
 
 A brief, dated log of everything discussed for the shed improvement project. Newest entries are added at the top.
 
+## 2026-10-28 (storm soaked the sill)
+- Owner: the last storm soaked the sill plate on **one full side wall** and **half the back wall**.
+- Two outside shots: [side gable](photos/2026-10-28-side-gable-after-storm.jpg), [back eave](photos/2026-10-28-back-eave-after-storm.jpg).
+- The back shot is the unguttered 16 ft eave (brick house and the meter at the left end, same wall as the 2026-09-25 back photo). Fresh orange tide on the bottom of the T1-11 the whole length, and a dead-grass strip in the drip line. The **house-end half** (left in that photo) is far wetter than the far half. That is the half of the back sill that got soaked. The lighter half took splash on the siding; the owner did not call that half of the plate soaked.
+- The other shot is a gable, house porch off the right, a loose cinder block in the grass at the darker end of the base. Owner says that whole side sill was soaked. Siding above the base band still looks intact. The block is sitting in the splash. Move it off the wall.
+- Same path as September: roof water off the bare eave hits the ground and splashes the raw T1-11 edge, and the open block-line gap lets it onto the plate. Cutting the grass back on 2026-09-27 stopped the turf from holding the siding wet. It did not stop this storm. The drying clock starts over today.
+- About 12 ft of side plate plus about 8 ft of back plate. Not the whole 56 ft perimeter. The door wall was not part of this report. The gutter is on that eave.
+- Not a teardown from these shots. The walls are still standing square, and the wet is the bottom band. The 2026-09-03 save-vs-tear test still applies, and a screwdriver in wet pine lies. Probe only after this wood has had dry weather.
+- When you mark it, see whether the side-wall wetness runs continuously from the back corner (one leak traveling along the plate) or is uniform on that whole gable (rain on the wall itself). Either way both walls get a gravel strip. The back eave is still the big source: about 63 gallons per inch of rain landing in that dead-grass strip.
+- Do now, in this order: on a dry day open both doors and both jalousies so the plate can dry, and close them if more rain is coming; shovel the dirt berm off that soaked L so the wood is not sitting in mud; pencil the wet run on the plate while you can still see it; move the loose block; gravel 12–18 in along the back eave and that gable before the next rain. The downspout extension is still owed at the door corner. Prime the end grain only after it is dry to the touch. Paint on wet end grain traps water.
+- Do not probe, sister, foam, or put the skirt on while this is wet. Anchor bolts in the soaked L are the first hold-down check once it has dried.
+
 ## 2026-09-27 (grass cut back from the foundation)
 - Four outside shots: [gable with downspout](photos/2026-09-27-gable-downspout.jpg), [eave with the grass pulled back](photos/2026-09-27-eave-grass-cut.jpg), [other gable](photos/2026-09-27-gable-end.jpg), [door wall](photos/2026-09-27-door-wall.jpg).
 - Grass and soil were holding the bottom of the T1-11 wet. That end grain wicks water up the wall, which matches the dark band on the siding. Cutting it back is the right first move. Checked off.

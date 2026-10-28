@@ -2,6 +2,7 @@
 
 ## Phase 0 — Safety (do this first)
 - [x] Yellow jacket nest under the gutters is **gone** (2026-09-21)
+- [ ] **Storm 2026-10-28:** the sill on one full side wall and the house-end half of the back eave is soaked. Dry that L before any probe. Gravel those two walls before the next rain. Steps are in the Water first list below.
 - [ ] Scrape nest remnants and reseat gutter guards (eave work is now allowed)
 
 ## Phase 1 — Clear and measure
@@ -9,13 +10,13 @@
 - [ ] Measure roof face for solar (one eave-to-ridge rafter length, or pitch + ridge height). No ladder needed: hold a phone level app flat on the underside of a rafter, pitch = 12 x tan(angle)
 - [ ] Measure the exterior wall-to-block gap width (the hole the cloth has to fill) — **before** buying the cloth roll
 - [x] Pull the big flat panel leaning against the front wall (clear in [photos/2026-09-25-exterior-front.jpg](photos/2026-09-25-exterior-front.jpg); both jalousies are visible)
-- [ ] Shovel the dirt berm out of the inside wall-to-slab corner. It holds water against the plate for days and it is free to fix
+- [ ] Shovel the dirt berm out of the inside wall-to-slab corner, **soaked L first** (full side wall + house-end half of the back). It holds water against the plate for days and it is free to fix
 - [ ] Get rid of more junk (chairs / ladders / fire pit / rake / leftover yard stuff — **bike, L-bench, and wall cabinets stay**; mower not in the 2026-09-27 frames)
 - [ ] Pick up the loose circular saw blade in the wall-base corner before the wet-clean (cut hazard; see [photos/2026-09-25-interior-sill-corner.jpg](photos/2026-09-25-interior-sill-corner.jpg))
 - [ ] Take lumber and corrugated sheets **off the collar ties** (they block the radiant-barrier staple-up)
 - [ ] Walk the gas cans out of the 105°F box until the shed is ventilated (still in there 2026-09-27: red on the floor, orange by the ladder, more under the bench)
 - [x] Clean interior walls (2026-09-25 photo — this corner wiped; other walls look in the same pass)
-- [ ] Probe the stained stud bottoms and scoop the crumbly stuff on the sill plate (wet it first — same as droppings)
+- [ ] Probe the stained stud bottoms and scoop the crumbly stuff on the sill plate (wet it first — same as droppings). **Not until the 2026-10-28 soak has had dry weather** — wet pine reads punky
 - [ ] Temporary light + airflow for those sessions: headlamp / battery work light + cordless fan (or garage-charged power station). Outdoor GFCI cord from the house only if you need a shop vac — not AC, not a swamp cooler. Work early/late.
 
 ### Cleanup sequence (bugs, dust, animal droppings)
@@ -71,7 +72,7 @@ Do this **early or late**, doors + jalousie open. **Do not dry-sweep droppings**
 - [ ] Hardware cloth leftover from Phase 2 — cleanup is wasted if they still walk in under the siding
 
 ## Phase 2 — Envelope (pests, weather, door)
-- [ ] Probe the wet-looking stud bottoms and sill plate **before** sealing the block line. Hard wood = clean, dry, then hardware cloth + trim. Soft/punky = sister or replace those bottoms first — don't bury rot
+- [ ] Probe the wet-looking stud bottoms and sill plate **before** sealing the block line. Hard wood = clean, dry, then hardware cloth + trim. Soft/punky = sister or replace those bottoms first — don't bury rot. The 2026-10-28 storm reset the drying clock on one full side wall and the house-end half of the back sill
 - [ ] Fix gaps between wall and foundation (hardware cloth + trim/flashing, not foam-only)
 - [ ] Point the downspout **away** from the corner (elbow + 4–6 ft extension or splash block) — it currently dumps on the foundation
 - [ ] Repair door bottoms; keep the existing frame; add a sweep / kick plate
@@ -80,13 +81,16 @@ Do this **early or late**, doors + jalousie open. **Do not dry-sweep droppings**
 - [ ] Re-paint (prefer a lighter color than the current faded tan — helps the 105°F problem)
 
 ### Water first — do this group before the Phase 1 cleanup
-Only one eave has a gutter, so roughly 100 sq ft of roof free-sheds in a line along the un-guttered wall — about 63 gallons per inch of rain. Drying takes weeks, so this is the one group with real latency. Start it first, and probe the wood only after it has had dry time. Reasoning in [SECOND-OPINION.md](SECOND-OPINION.md).
+Only one eave has a gutter, so roughly 100 sq ft of roof free-sheds in a line along the un-guttered wall — about 63 gallons per inch of rain. The 2026-10-28 storm soaked the plate: **full sill on one side wall** (the gable in [photos/2026-10-28-side-gable-after-storm.jpg](photos/2026-10-28-side-gable-after-storm.jpg)) and the **house-end half of the back eave** (left half of [photos/2026-10-28-back-eave-after-storm.jpg](photos/2026-10-28-back-eave-after-storm.jpg), toward the brick house and meter). Drying takes weeks in humid weather, and this storm reset that clock. Probe only after dry weather. Reasoning in [SECOND-OPINION.md](SECOND-OPINION.md) and the 2026-10-28 note.
 
-- [ ] Gravel drip strip, 12–18 in wide, along the eaves and gables with no gutter (cannot clog, nothing nests in it, no ladder)
-- [ ] Downspout elbow + 4–6 ft extension on the guttered side
-- [x] Cut the grass and soil line back off the siding (2026-09-27 — almost every side; one gable is still tight to the turf)
-- [ ] Prime or paint the raw bottom edge of the T1-11 — that exposed end grain wicks splash straight into the wall
-- [ ] Check the sill plate at **each anchor bolt**, not just between them. A washer sinking into soft wood is a lost hold-down, which is structural
+- [ ] On dry days, open both doors and both jalousies so the soaked plate can dry. Close the building if more rain is coming
+- [ ] Pencil the wet run on the plate while it is still obvious: the full side wall, and the house-end half of the back. Note whether the side wetness starts at the back corner or covers that gable evenly
+- [ ] Move the loose cinder block off the gable splash line (it is sitting in the grass in the 2026-10-28 gable shot)
+- [ ] Gravel drip strip, 12–18 in wide, along the eaves and gables with no gutter. **Back eave and the soaked gable first**, before the next rain. The dead-grass strip in the 2026-10-28 back photo is the landing zone. Cannot clog, nothing nests in it, no ladder
+- [ ] Downspout elbow + 4–6 ft extension on the guttered side (this storm was the bare eave; the door-wall dump is still there)
+- [x] Cut the grass and soil line back off the siding (2026-09-27 — almost every side; one gable is still tight to the turf). Not enough on its own: the 2026-10-28 storm still soaked the plate
+- [ ] Prime or paint the raw bottom edge of the T1-11 — that exposed end grain wicks splash straight into the wall. Only after the edge is dry to the touch
+- [ ] Check the sill plate at **each anchor bolt**, not just between them. A washer sinking into soft wood is a lost hold-down, which is structural. Start with the bolts in the soaked L, after it has dried
 
 ### Sill / block-line seal (after the probe)
 Do this **after** Phase 1 cleanup + the screwdriver test. If bottoms are punky, sister or swap plate sections first. See [diagrams/sill-seal.png](diagrams/sill-seal.png).
@@ -127,7 +131,7 @@ Do this **after** Phase 1 cleanup + the screwdriver test. If bottoms are punky, 
 - [ ] Modest solar: lights + cordless-tool charging + fan (small inverter is enough; no compressor / table-saw loads)
 
 ## Open questions
-- Is the crumbly layer under the dirt on the plate soft wood, or only the dirt itself? The 2026-09-25 corners read as soil on the slab. Probe after it dries, and thumb-test the door-jamb anchor bolt first.
+- Is the wood under the 2026-10-28 soak soft, or only wet? Full side-wall sill plus the house-end half of the back sill. Probe after dry weather, anchor bolts in that L first. The door wall was not part of this report. The 2026-09-25 corners still read as soil on the slab until a screwdriver says otherwise.
 - Roof face / pitch / ridge height (for foil quantity and solar).
 - How wide is the exterior wall-to-block gap?
 - Sill is a **2×6** (5.5 × 1.5). Treated? How soft are the stained bottoms? Run length Y not taped.

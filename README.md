@@ -41,7 +41,9 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 │   ├── 2026-09-27-gable-downspout.jpg
 │   ├── 2026-09-27-eave-grass-cut.jpg
 │   ├── 2026-09-27-gable-end.jpg
-│   └── 2026-09-27-door-wall.jpg
+│   ├── 2026-09-27-door-wall.jpg
+│   ├── 2026-10-28-side-gable-after-storm.jpg
+│   └── 2026-10-28-back-eave-after-storm.jpg
 └── diagrams/      ← how-to drawings
     ├── radiant-barrier-diagram.png
     ├── radiant-barrier.svg
@@ -71,13 +73,13 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 
 ## Current snapshot
 
-- **Next action:** gravel drip strip and a downspout extension, then probe the sill after it dries. Grass is cut back from the foundation (2026-09-27). The **L-bench and wall cabinets stay**. Nest is gone.
+- **Next action:** the 2026-10-28 storm soaked the sill on one full side wall and the house-end half of the back eave. Dry that L (doors and jalousies open on dry days, berm off the plate). Gravel those two walls before the next rain. Do not probe wet wood. Downspout extension is still owed. The **L-bench and wall cabinets stay**. Nest is gone.
 - **Second opinion on file:** [SECOND-OPINION.md](SECOND-OPINION.md) re-reads the same photos and argues for water-at-the-ground first, a bigger fan, foil earlier, and four locked decisions worth re-checking. Nothing locked was changed.
 - **Use:** bikes + house projects; cordless tools only. High-voltage work stays in the primary garage.
 - **Comfort:** must be workable. Currently ~**105°F** midday. Path = interior radiant barrier + exhaust fan + lighter paint. No AC. Very humid SC summers — swamp cooler won't work.
 - **Power:** none on site. Modest solar later (lights, charging, fan). Cleanup sessions: battery lights/fan or a GFCI outdoor cord — not AC on a long run.
 - **Door:** 48 × 75.5" opening, two ~24" leaves. Bottoms rotting, frame good — repair, don't replace the opening.
-- **Foundation:** **16 × 12 ft** slab + ~8.5" cinder-block stem. Sill is a **2×6** (5.5 × 1.5). Bottom ~6–10" of 74" 2×4 studs/sheathing is moisture-stained — probe before sealing. Saveable-looking. Seal = **hardware cloth in the gap + flashing/skirt**, not foam-only. Downspout dumps on the corner — move it. See [diagrams/sill-seal.png](diagrams/sill-seal.png) and [diagrams/floor-plan.png](diagrams/floor-plan.png).
+- **Foundation:** **16 × 12 ft** slab + ~8.5" cinder-block stem. Sill is a **2×6** (5.5 × 1.5). **2026-10-28:** one full side-wall sill and the house-end half of the back sill were soaked. Let that dry before any probe or seal. Bottom ~6–10" of the studs was already moisture-stained. Saveable-looking from the outside shots. Seal = **hardware cloth in the gap + flashing/skirt**, not foam-only. Downspout dumps on the corner — move it. See [diagrams/sill-seal.png](diagrams/sill-seal.png) and [diagrams/floor-plan.png](diagrams/floor-plan.png).
 - **Roof inside:** open 2x4 rafters, bare OSB. Back eave vents are in the **flat soffit** (look-up 2026-09-25) and feed the back rafter bays. Front gutter/eave has none. Take lumber off the collar ties before the foil. Don't block the soffit or ridge. Roof face / pitch still unmeasured.
 - **Dimensions:** 16 × 12 foundation, 87" top-of-wall to bottom-of-block (2×6 sill + 74" 2×4 + **double top plate** + 8.5" block). Centered 48 × 75.5" door with an **18 × 22" jalousie on each side**. Studs run to the sheathing. Still need roof pitch and the wall-to-block gap.
 
@@ -86,4 +88,4 @@ Open `README.md` first. Agent context lives in [`.cursorrules`](.cursorrules). T
 - Approach: DIY as much as possible
 - Exterior: faded tan T1-11 siding, white trim, dark shingle gable roof, white gutters, **two** 18×22 jalousies flanking a centered double door, small ridge vent, **two soffit vents on the back eave and none on the front gutter/eave**
 - Size: **16 ft eave × 12 ft gable**, ~192 sq ft. 2×4 walls, 2×6 sill, ~8.5" block.
-- Photos: [photos/exterior.jpg](photos/exterior.jpg), [photos/interior.jpg](photos/interior.jpg), [workbench 2026-09-27](photos/2026-09-27-interior-workbench.jpg), [main room 2026-09-27](photos/2026-09-27-interior-room.jpg). Earlier set listed in the folder map above.
+- Photos: [side gable after the storm](photos/2026-10-28-side-gable-after-storm.jpg), [back eave after the storm](photos/2026-10-28-back-eave-after-storm.jpg), [photos/exterior.jpg](photos/exterior.jpg), [photos/interior.jpg](photos/interior.jpg). Earlier set listed in the folder map above.
